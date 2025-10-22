@@ -1,5 +1,5 @@
 import pandas as pd
-import pathlib as Path
+from pathlib import Path
 
 class CSVExtractor:
 
@@ -13,12 +13,11 @@ class CSVExtractor:
 
         try:
             df = pd.read_csv(file_path)
-        
+
         except FileNotFoundError:
-            raise FileNotFoundError(f"File in {file_path} does not exists.")
-        
+            raise FileNotFoundError(f"File in {file_path} does not exist.")
         except Exception as e:
-            raise IOError(f"Failed to read {file_path}: {str(e)}")
+            raise RuntimeError(f"Failed to read CSV file '{file_path}': {type(e).__name__}: {e}") from e
         
         return df
 
@@ -28,14 +27,13 @@ class CSVExtractor:
         """
 
         dataframes = {}
-        
-        try:
-            for file_path in dir_path.glob("*.csv"):
-                table_name = file_path.stem
+
+        for file_path in dir_path.glob("*.csv"):
+            table_name = file_path.stem
+            try:
                 df = self.load_csv(file_path)
                 dataframes[table_name] = df
-        
-        except Exception as e:
-            raise IOError(f"{str(e)}")
+            except Exception as e:
+                raise RuntimeError(f"Failed to read CSV file '{file_path}' in directory '{dir_path}': {e}") from e
 
         return dataframes

@@ -4,7 +4,8 @@ def build_dim_calendar() -> pd.DataFrame:
     """
     DESCRIPTION
     """
-    date_range = pd.date_range(start='2023-01-01 00:00:00', end='2026-01-01 00:00:00', freq="min")
+    # '2023-05-06 03:11:24' -> '2025-10-12 20:26:52'
+    date_range = pd.date_range(start='2023-05-01 00:00:00', end='2025-11-01 00:00:00', freq="min")
 
     dim_time = pd.DataFrame({
         "time_key": range(1, len(date_range) + 1),

@@ -9,10 +9,10 @@ class CSVLoader:
         """
         Saves a dataframe as a csv file
         """
-        file_path = output_path / filename
+        file_path = output_path / f"{filename}.csv"
 
         try:
             output_path.mkdir(parents=True, exist_ok=True)
-            df.to_csv(f"{file_path}.csv", index = False)
+            df.to_csv(file_path, index = False)
         except Exception as e:
-            raise IOError(f"Error saving file '{filename}' in {file_path}. Details: {str(e)}")
+            raise RuntimeError(f"Error saving file '{filename}' in {file_path}. Details: {e}") from e

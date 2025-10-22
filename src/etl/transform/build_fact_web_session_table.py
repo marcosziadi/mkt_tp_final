@@ -34,7 +34,7 @@ def build_fact_web_session(
             'started_at_key',
             'ended_at_key',
             'source_key',
-            'device_key',
+            'device_key', # VER AGREGAR DURACION EN SEGUNDOS POR SESION, EN TEORIA COLUMNA ESTA EN CLEAN
         ]]
         .copy()
     )

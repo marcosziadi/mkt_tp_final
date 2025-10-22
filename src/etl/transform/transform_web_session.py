@@ -17,7 +17,7 @@ def clean_web_session(web_session_raw: pd.DataFrame) -> pd.DataFrame:
         web_session_clean['customer_id'] = web_session_clean['customer_id'].fillna(CUSTOMER_UNKNOWN_ID)
 
         web_session_clean['started_at_int'] = (
-            pd.to_datetime(web_session_clean['started_at'])
+            pd.to_datetime(web_session_clean['started_at']) # ESTA DE MAS LOS PD TO DATETIME, SACAR
             .fillna(str(DATETIME_UNKNOWN_OBJ))
             .dt.strftime("%Y%m%d%H%M")
             .astype(int)

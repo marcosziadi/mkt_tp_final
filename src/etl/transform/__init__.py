@@ -5,3 +5,5 @@ from .build_dimension_source import build_dim_source
 from .build_dimension_device import build_dim_device
 from .build_dimension_customer import build_dim_customer
 from .build_dimension_calendar import build_dim_calendar
+
+from .build_fact_web_session_table import build_fact_web_session

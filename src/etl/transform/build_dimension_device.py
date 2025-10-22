@@ -8,9 +8,9 @@ def build_dim_device(web_session_clean_df: pd.DataFrame) -> pd.DataFrame:
     dim_device = pd.DataFrame()
 
     try:
-        dim_device['name'] = web_session_clean_df['device'].unique()
-        dim_device['device_id'] = dim_device.index + 1
-        dim_device = dim_device[['device_id','name']].copy()
+        dim_device['device'] = web_session_clean_df['device'].unique()
+        dim_device['device_key'] = dim_device.index + 1
+        dim_device = dim_device[['device_key','device']].copy()
         return dim_device
 
     except KeyError as e:

@@ -1,4 +1,4 @@
-session_key,session_id,customer_key,started_at_key,ended_at_key,source_key,device_key
+session_sk,session_id,customer_sk,started_at_sk,ended_at_sk,source_sk,device_sk
 1,11000000000,791.0,399835,399846.0,1,1
 2,11000000001,332.0,1177190,1177198.0,2,1
 3,11000000002,,576185,576187.0,3,2

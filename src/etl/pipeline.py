@@ -21,13 +21,13 @@ def run_etl_pipeline():
         # ==== STAGING ====
         clean_tables = {
             # 'address': tr.clean_address(),
-            # 'channel': tr.clean_channel(),
-            'customer': tr.clean_customer(raw_data['customer']),
-            # 'nps_response': tr.clean_nps_response(),
+            'channel':      tr.clean_channel(raw_data['channel']),
+            'customer':     tr.clean_customer(raw_data['customer']),
+            'nps_response': tr.clean_nps_response(raw_data['nps_response']),
             # 'payment': tr.clean_payment(),
-            # 'product_category': tr.clean_product_category(),
-            # 'product': tr.clean_product(),
-            # 'province': tr.clean_province(),
+            'product_category': tr.clean_product_category(raw_data['product_category']),
+            'product':      tr.clean_product(raw_data['product']),
+            # 'province':     tr.clean_province(),
             # 'sales_order_item': tr.clean_sales_order_item(),
             # 'sales_order': tr.clean_sales_order(),
             # 'shipment': tr.clean_shipment(),
@@ -40,14 +40,20 @@ def run_etl_pipeline():
             'calendar': tr.build_dim_calendar(),
             'source':   tr.build_dim_source(clean_tables['web_session']),
             'device':   tr.build_dim_device(clean_tables['web_session']),
-            'customer': tr.build_dim_customer(clean_tables['customer'])}
+            'customer': tr.build_dim_customer(clean_tables['customer']),
+            'product':  tr.build_dim_product(clean_tables['product'], clean_tables['product_category']),
+            'channel':  tr.build_dim_channel(clean_tables['channel'])}
 
         fact_tables = {
             'web_session': tr.build_fact_web_session(clean_tables['web_session'],
                                                      dim_tables['customer'],
                                                      dim_tables['device'],
                                                      dim_tables['source'],
-                                                     dim_tables['calendar'])}
+                                                     dim_tables['calendar']),
+            'nps_response': tr.build_fact_nps_response(clean_tables['nps_response'],
+                                                       dim_tables['customer'],
+                                                       dim_tables['channel'],
+                                                       dim_tables['calendar'])}
 
         # ==== LOAD ====
         load = CSVLoader()

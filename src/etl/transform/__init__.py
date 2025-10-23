@@ -1,9 +1,16 @@
 from .transform_web_session import clean_web_session
 from .transform_customer import clean_customer
+from .transform_product_category import clean_product_category
+from .transform_product import clean_product
+from .transform_channel import clean_channel
+from .transform_nps_response import clean_nps_response
 
 from .build_dimension_source import build_dim_source
 from .build_dimension_device import build_dim_device
 from .build_dimension_customer import build_dim_customer
 from .build_dimension_calendar import build_dim_calendar
+from .build_dimension_product import build_dim_product
+from .build_dimension_channel import build_dim_channel
 
 from .build_fact_web_session_table import build_fact_web_session
+from .build_fact_nps_response_table import build_fact_nps_response

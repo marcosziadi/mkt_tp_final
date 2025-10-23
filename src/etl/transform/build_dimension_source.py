@@ -9,8 +9,8 @@ def build_dim_source(web_session_clean_df: pd.DataFrame) -> pd.DataFrame:
 
     try:
         dim_source['source'] = web_session_clean_df['source'].unique()
-        dim_source['source_key'] = dim_source.index + 1
-        dim_source = dim_source[['source_key','source']].copy()
+        dim_source['source_sk'] = dim_source.index + 1
+        dim_source = dim_source[['source_sk','source']].copy()
         return dim_source
     
     except KeyError as e:

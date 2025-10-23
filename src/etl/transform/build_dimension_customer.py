@@ -6,10 +6,10 @@ def build_dim_customer(customer_clean_df: pd.DataFrame) -> pd.DataFrame:
     """
 
     dim_customer = customer_clean_df.copy()
-    dim_customer['customer_key'] = customer_clean_df.index + 1
+    dim_customer['customer_sk'] = customer_clean_df.index + 1
     dim_customer = (
         dim_customer[[
-            'customer_key',
+            'customer_sk',
             'customer_id',
             'email',
             'first_name',

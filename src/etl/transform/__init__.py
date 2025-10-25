@@ -7,6 +7,8 @@ from .transform_nps_response import clean_nps_response
 from .transform_province import clean_province
 from .transform_address import clean_address
 from .transform_store import clean_store
+from .transform_sales_order import clean_sales_order
+from .transform_sales_order_item import clean_sales_order_item
 
 from .build_dimension_source import build_dim_source
 from .build_dimension_device import build_dim_device
@@ -16,6 +18,7 @@ from .build_dimension_product import build_dim_product
 from .build_dimension_channel import build_dim_channel
 from .build_dimension_address import build_dim_address
 from .build_dimension_store import build_dim_store
+from .build_fact_sales_order_item_table import build_fact_sales_order_item
 
 from .build_fact_web_session_table import build_fact_web_session
 from .build_fact_nps_response_table import build_fact_nps_response

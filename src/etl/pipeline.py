@@ -20,19 +20,19 @@ def run_etl_pipeline():
         
         # ==== STAGING ====
         clean_tables = {
-            # 'address': tr.clean_address(),
+            'address':      tr.clean_address(raw_data['address']),
             'channel':      tr.clean_channel(raw_data['channel']),
             'customer':     tr.clean_customer(raw_data['customer']),
             'nps_response': tr.clean_nps_response(raw_data['nps_response']),
             # 'payment': tr.clean_payment(),
             'product_category': tr.clean_product_category(raw_data['product_category']),
             'product':      tr.clean_product(raw_data['product']),
-            # 'province':     tr.clean_province(),
-            # 'sales_order_item': tr.clean_sales_order_item(),
-            # 'sales_order': tr.clean_sales_order(),
+            'province':     tr.clean_province(raw_data['province']),
+            'sales_order_item': tr.clean_sales_order_item(raw_data['sales_order_item']),
+            'sales_order':  tr.clean_sales_order(raw_data['sales_order']),
             # 'shipment': tr.clean_shipment(),
-            # 'store': tr.clean_store(),
-            'web_session': tr.clean_web_session(raw_data['web_session'])
+            'store':        tr.clean_store(raw_data['store']),
+            'web_session':  tr.clean_web_session(raw_data['web_session'])
         }
 
         # ==== TRANSFORM ====
@@ -42,7 +42,9 @@ def run_etl_pipeline():
             'device':   tr.build_dim_device(clean_tables['web_session']),
             'customer': tr.build_dim_customer(clean_tables['customer']),
             'product':  tr.build_dim_product(clean_tables['product'], clean_tables['product_category']),
-            'channel':  tr.build_dim_channel(clean_tables['channel'])}
+            'channel':  tr.build_dim_channel(clean_tables['channel']),
+            'address':  tr.build_dim_address(clean_tables['address'], clean_tables['province']),
+            'store':    tr.build_dim_store(clean_tables['store'], clean_tables['address'], clean_tables['province'])}
 
         fact_tables = {
             'web_session': tr.build_fact_web_session(clean_tables['web_session'],
@@ -53,7 +55,15 @@ def run_etl_pipeline():
             'nps_response': tr.build_fact_nps_response(clean_tables['nps_response'],
                                                        dim_tables['customer'],
                                                        dim_tables['channel'],
-                                                       dim_tables['calendar'])}
+                                                       dim_tables['calendar']),
+            'sales_order_item': tr.build_fact_sales_order_item(clean_tables['sales_order_item'],
+                                                               clean_tables['sales_order'],
+                                                               dim_tables['channel'],
+                                                               dim_tables['product'],
+                                                               dim_tables['customer'],
+                                                               dim_tables['address'],
+                                                               dim_tables['store'],
+                                                               dim_tables['calendar'])}
 
         # ==== LOAD ====
         load = CSVLoader()

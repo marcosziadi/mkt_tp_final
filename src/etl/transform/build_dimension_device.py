@@ -1,6 +1,6 @@
 import pandas as pd
 
-def build_dim_device(web_session_clean_df: pd.DataFrame) -> pd.DataFrame:
+def build_dim_device(web_session_clean: pd.DataFrame) -> pd.DataFrame:
     '''
     Creates device dimension.
     '''
@@ -8,7 +8,7 @@ def build_dim_device(web_session_clean_df: pd.DataFrame) -> pd.DataFrame:
     dim_device = pd.DataFrame()
 
     try:
-        dim_device['device'] = web_session_clean_df['device'].unique()
+        dim_device['device'] = web_session_clean['device'].unique()
         dim_device['device_sk'] = dim_device.index + 1
         dim_device = dim_device[['device_sk','device']].copy()
         return dim_device

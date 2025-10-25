@@ -1,6 +1,6 @@
 import pandas as pd
 
-def build_dim_source(web_session_clean_df: pd.DataFrame) -> pd.DataFrame:
+def build_dim_source(web_session_clean: pd.DataFrame) -> pd.DataFrame:
     '''
     Creates source dimension.
     '''
@@ -8,7 +8,7 @@ def build_dim_source(web_session_clean_df: pd.DataFrame) -> pd.DataFrame:
     dim_source = pd.DataFrame()
 
     try:
-        dim_source['source'] = web_session_clean_df['source'].unique()
+        dim_source['source'] = web_session_clean['source'].unique()
         dim_source['source_sk'] = dim_source.index + 1
         dim_source = dim_source[['source_sk','source']].copy()
         return dim_source

@@ -1,8 +1,8 @@
 import pandas as pd
 
 def build_fact_sales_order_item(
-        sales_order_item_clean: pd.DataFrame,
-        sales_order_clean: pd.DataFrame,
+        clean_sales_order_item: pd.DataFrame,
+        clean_sales_order: pd.DataFrame,
         dim_channel: pd.DataFrame,
         dim_product: pd.DataFrame,
         dim_customer: pd.DataFrame,
@@ -15,8 +15,8 @@ def build_fact_sales_order_item(
     '''
 
     fact_sales_order_item = (
-        sales_order_item_clean
-        .merge(sales_order_clean, on='order_id', how='inner')
+        clean_sales_order_item
+        .merge(clean_sales_order, on='order_id', how='inner')
         .drop(columns=['subtotal'])
     )
 

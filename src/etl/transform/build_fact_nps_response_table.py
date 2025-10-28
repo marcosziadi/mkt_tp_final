@@ -1,7 +1,7 @@
 import pandas as pd
 
 def build_fact_nps_response(
-    nps_response_clean: pd.DataFrame,
+    clean_nps_response: pd.DataFrame,
     dim_customer: pd.DataFrame,
     dim_channel: pd.DataFrame,
     dim_calendar: pd.DataFrame) -> pd.DataFrame:
@@ -9,7 +9,7 @@ def build_fact_nps_response(
     DESCRIPTION
     '''
 
-    fact_table = nps_response_clean.copy()
+    fact_table = clean_nps_response.copy()
 
     fact_table = (
         fact_table

@@ -1,7 +1,7 @@
 import pandas as pd
 
 def build_fact_web_session(
-        web_session_clean: pd.DataFrame,
+        clean_web_session: pd.DataFrame,
         dim_customer: pd.DataFrame,
         dim_device: pd.DataFrame,
         dim_source: pd.DataFrame,
@@ -11,7 +11,7 @@ def build_fact_web_session(
     DESCRIPTION
     '''
 
-    fact_table = web_session_clean.copy()
+    fact_table = clean_web_session.copy()
 
     fact_table = (
         fact_table

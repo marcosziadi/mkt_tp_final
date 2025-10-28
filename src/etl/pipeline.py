@@ -1,3 +1,5 @@
+# CONTINUAR MANEJO ERRORES EN FUNCIONES, NO DEBEN HABER NULLS EN FACT_TABLE
+
 from pathlib import Path
 
 from extract import CSVExtractor

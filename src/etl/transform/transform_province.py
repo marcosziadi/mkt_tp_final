@@ -6,5 +6,9 @@ def clean_province(province_raw: pd.DataFrame) -> pd.DataFrame:
     '''
 
     province_clean = province_raw.copy()
-
-    return province_clean
+    try:
+        return province_clean
+    except KeyError as e:
+        raise RuntimeError(f"ERROR: Failed cleaning 'province_raw' | Missing column: {e}") from e
+    except Exception as e:
+        raise RuntimeError(f"ERROR: Failes cleaning 'province_raw' | Unexpected error: {str(e)}") from e

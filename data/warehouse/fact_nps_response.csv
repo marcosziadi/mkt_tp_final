@@ -1,5 +1,5 @@
 nps_sk,responded_at_sk,nps_id,score,comment
-1,571868,13000000000,10,
+1,571868,13000000000,10,No Comment
 2,454400,13000000001,5,Volvería a comprar
 3,499637,13000000002,10,Atención muy buena
 4,614470,13000000003,7,Todo perfecto
@@ -9,7 +9,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 8,619045,13000000007,3,Volvería a comprar
 9,1170530,13000000008,7,Todo perfecto
 10,501658,13000000009,8,Entrega rápida y producto excelente
-11,797294,13000000010,6,
+11,797294,13000000010,6,No Comment
 12,1143435,13000000011,0,Atención muy buena
 13,1051752,13000000012,7,Atención muy buena
 14,1194305,13000000013,8,Entrega rápida y producto excelente
@@ -45,15 +45,15 @@ nps_sk,responded_at_sk,nps_id,score,comment
 44,850617,13000000043,8,Entrega rápida y producto excelente
 45,1006836,13000000044,9,Todo perfecto
 46,1202453,13000000045,8,Muy conforme con la calidad
-47,1036691,13000000046,7,
+47,1036691,13000000046,7,No Comment
 48,457766,13000000047,10,Entrega rápida y producto excelente
-49,1172922,13000000048,10,
+49,1172922,13000000048,10,No Comment
 50,1002144,13000000049,2,Podría mejorar el empaque
 51,817444,13000000050,8,Todo perfecto
 52,579650,13000000051,8,Muy conforme con la calidad
 53,558798,13000000052,9,Atención muy buena
 54,621254,13000000053,9,Todo perfecto
-55,856976,13000000054,10,
+55,856976,13000000054,10,No Comment
 56,503758,13000000055,7,Entrega rápida y producto excelente
 57,753667,13000000056,7,Podría mejorar el empaque
 58,779472,13000000057,9,Entrega rápida y producto excelente
@@ -61,7 +61,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 60,1016205,13000000059,9,Entrega rápida y producto excelente
 61,441710,13000000060,6,Atención muy buena
 62,373022,13000000061,9,Volvería a comprar
-63,649239,13000000062,10,
+63,649239,13000000062,10,No Comment
 64,1046705,13000000063,8,Todo perfecto
 65,1003948,13000000064,7,Tardó un poco más de lo esperado
 66,1052377,13000000065,8,Todo perfecto
@@ -70,7 +70,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 69,422159,13000000068,2,Podría mejorar el empaque
 70,526099,13000000069,8,Entrega rápida y producto excelente
 71,1100357,13000000070,2,Muy conforme con la calidad
-72,1102419,13000000071,8,
+72,1102419,13000000071,8,No Comment
 73,767648,13000000072,9,Muy conforme con la calidad
 74,672281,13000000073,9,Muy conforme con la calidad
 75,738467,13000000074,9,Podría mejorar el empaque
@@ -81,7 +81,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 80,755396,13000000079,0,Podría mejorar el empaque
 81,966917,13000000080,6,Tardó un poco más de lo esperado
 82,1252319,13000000081,7,Muy conforme con la calidad
-83,847651,13000000082,10,
+83,847651,13000000082,10,No Comment
 84,655151,13000000083,9,Atención muy buena
 85,391792,13000000084,10,Volvería a comprar
 86,784285,13000000085,6,Entrega rápida y producto excelente
@@ -95,7 +95,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 94,447459,13000000093,4,Tardó un poco más de lo esperado
 95,1230186,13000000094,8,Todo perfecto
 96,568493,13000000095,8,Podría mejorar el empaque
-97,1218720,13000000096,6,
+97,1218720,13000000096,6,No Comment
 98,668489,13000000097,8,Podría mejorar el empaque
 99,670287,13000000098,10,Volvería a comprar
 100,680865,13000000099,10,Todo perfecto
@@ -133,29 +133,29 @@ nps_sk,responded_at_sk,nps_id,score,comment
 132,1098071,13000000131,9,Podría mejorar el empaque
 133,1185078,13000000132,8,Entrega rápida y producto excelente
 134,842135,13000000133,0,Atención muy buena
-135,1114307,13000000134,1,
+135,1114307,13000000134,1,No Comment
 136,751945,13000000135,8,Podría mejorar el empaque
 137,889597,13000000136,8,Atención muy buena
-138,634314,13000000137,9,
+138,634314,13000000137,9,No Comment
 139,652838,13000000138,9,Muy conforme con la calidad
 140,972016,13000000139,6,Entrega rápida y producto excelente
 141,681580,13000000140,0,Atención muy buena
-142,1163484,13000000141,7,
+142,1163484,13000000141,7,No Comment
 143,913557,13000000142,5,Entrega rápida y producto excelente
 144,714671,13000000143,1,Todo perfecto
 145,1146433,13000000144,10,Todo perfecto
-146,430057,13000000145,6,
-147,1080658,13000000146,8,
-148,569342,13000000147,7,
+146,430057,13000000145,6,No Comment
+147,1080658,13000000146,8,No Comment
+148,569342,13000000147,7,No Comment
 149,750235,13000000148,0,Podría mejorar el empaque
 150,770331,13000000149,2,Entrega rápida y producto excelente
 151,1089234,13000000150,5,Todo perfecto
 152,979589,13000000151,9,Tardó un poco más de lo esperado
 153,741695,13000000152,8,Tardó un poco más de lo esperado
-154,1150378,13000000153,8,
+154,1150378,13000000153,8,No Comment
 155,935402,13000000154,8,Todo perfecto
-156,1102961,13000000155,9,
-157,1146959,13000000156,8,
+156,1102961,13000000155,9,No Comment
+157,1146959,13000000156,8,No Comment
 158,899357,13000000157,10,Atención muy buena
 159,1252029,13000000158,8,Atención muy buena
 160,1061735,13000000159,9,Muy conforme con la calidad
@@ -169,28 +169,28 @@ nps_sk,responded_at_sk,nps_id,score,comment
 168,476533,13000000167,1,Entrega rápida y producto excelente
 169,1124053,13000000168,8,Todo perfecto
 170,855608,13000000169,7,Entrega rápida y producto excelente
-171,759459,13000000170,8,
-172,734665,13000000171,6,
+171,759459,13000000170,8,No Comment
+172,734665,13000000171,6,No Comment
 173,1150776,13000000172,4,Tardó un poco más de lo esperado
 174,1114080,13000000173,1,Volvería a comprar
 175,574391,13000000174,7,Entrega rápida y producto excelente
 176,1253653,13000000175,9,Todo perfecto
-177,689405,13000000176,9,
+177,689405,13000000176,9,No Comment
 178,624142,13000000177,9,Volvería a comprar
-179,668150,13000000178,8,
+179,668150,13000000178,8,No Comment
 180,1279612,13000000179,8,Atención muy buena
 181,1153841,13000000180,2,Volvería a comprar
 182,1061378,13000000181,8,Volvería a comprar
 183,887330,13000000182,7,Muy conforme con la calidad
-184,477214,13000000183,9,
-185,651197,13000000184,10,
+184,477214,13000000183,9,No Comment
+185,651197,13000000184,10,No Comment
 186,953502,13000000185,9,Podría mejorar el empaque
-187,940756,13000000186,2,
+187,940756,13000000186,2,No Comment
 188,1138287,13000000187,7,Muy conforme con la calidad
 189,955945,13000000188,0,Entrega rápida y producto excelente
 190,1280958,13000000189,1,Podría mejorar el empaque
 191,1086330,13000000190,8,Todo perfecto
-192,672875,13000000191,1,
+192,672875,13000000191,1,No Comment
 193,1138025,13000000192,10,Todo perfecto
 194,540341,13000000193,8,Volvería a comprar
 195,658514,13000000194,7,Podría mejorar el empaque
@@ -214,14 +214,14 @@ nps_sk,responded_at_sk,nps_id,score,comment
 213,1237687,13000000212,9,Tardó un poco más de lo esperado
 214,906035,13000000213,7,Podría mejorar el empaque
 215,806275,13000000214,8,Muy conforme con la calidad
-216,1176709,13000000215,7,
+216,1176709,13000000215,7,No Comment
 217,583489,13000000216,10,Todo perfecto
 218,672739,13000000217,9,Entrega rápida y producto excelente
 219,1086410,13000000218,5,Volvería a comprar
 220,743212,13000000219,3,Entrega rápida y producto excelente
 221,371071,13000000220,10,Atención muy buena
 222,1170953,13000000221,8,Todo perfecto
-223,928805,13000000222,6,
+223,928805,13000000222,6,No Comment
 224,1215388,13000000223,5,Podría mejorar el empaque
 225,1195056,13000000224,4,Volvería a comprar
 226,843541,13000000225,7,Entrega rápida y producto excelente
@@ -229,9 +229,9 @@ nps_sk,responded_at_sk,nps_id,score,comment
 228,755314,13000000227,8,Todo perfecto
 229,1072479,13000000228,6,Podría mejorar el empaque
 230,863844,13000000229,2,Podría mejorar el empaque
-231,572100,13000000230,7,
+231,572100,13000000230,7,No Comment
 232,823396,13000000231,4,Atención muy buena
-233,493486,13000000232,6,
+233,493486,13000000232,6,No Comment
 234,876370,13000000233,4,Tardó un poco más de lo esperado
 235,1072040,13000000234,2,Muy conforme con la calidad
 236,1034320,13000000235,7,Atención muy buena
@@ -258,7 +258,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 257,490392,13000000256,6,Entrega rápida y producto excelente
 258,886654,13000000257,0,Entrega rápida y producto excelente
 259,608235,13000000258,7,Tardó un poco más de lo esperado
-260,395265,13000000259,4,
+260,395265,13000000259,4,No Comment
 261,1096931,13000000260,9,Tardó un poco más de lo esperado
 262,936922,13000000261,7,Atención muy buena
 263,882518,13000000262,9,Podría mejorar el empaque
@@ -268,7 +268,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 267,647172,13000000266,9,Todo perfecto
 268,846454,13000000267,6,Podría mejorar el empaque
 269,789001,13000000268,6,Entrega rápida y producto excelente
-270,776763,13000000269,7,
+270,776763,13000000269,7,No Comment
 271,714227,13000000270,0,Todo perfecto
 272,991827,13000000271,7,Todo perfecto
 273,752806,13000000272,5,Atención muy buena
@@ -288,12 +288,12 @@ nps_sk,responded_at_sk,nps_id,score,comment
 287,937890,13000000286,9,Tardó un poco más de lo esperado
 288,1281012,13000000287,9,Tardó un poco más de lo esperado
 289,1271408,13000000288,7,Entrega rápida y producto excelente
-290,830583,13000000289,8,
+290,830583,13000000289,8,No Comment
 291,1254100,13000000290,8,Volvería a comprar
 292,384823,13000000291,4,Tardó un poco más de lo esperado
 293,1047247,13000000292,2,Volvería a comprar
 294,448625,13000000293,6,Muy conforme con la calidad
-295,451700,13000000294,9,
+295,451700,13000000294,9,No Comment
 296,950241,13000000295,8,Muy conforme con la calidad
 297,1125053,13000000296,10,Entrega rápida y producto excelente
 298,842494,13000000297,0,Entrega rápida y producto excelente
@@ -304,13 +304,13 @@ nps_sk,responded_at_sk,nps_id,score,comment
 303,1163928,13000000302,8,Volvería a comprar
 304,1050482,13000000303,9,Podría mejorar el empaque
 305,531406,13000000304,8,Entrega rápida y producto excelente
-306,886835,13000000305,1,
-307,491857,13000000306,9,
+306,886835,13000000305,1,No Comment
+307,491857,13000000306,9,No Comment
 308,866331,13000000307,9,Podría mejorar el empaque
 309,1169495,13000000308,6,Todo perfecto
 310,815134,13000000309,9,Volvería a comprar
 311,1159935,13000000310,5,Muy conforme con la calidad
-312,1222209,13000000311,9,
+312,1222209,13000000311,9,No Comment
 313,1208455,13000000312,7,Todo perfecto
 314,784862,13000000313,4,Tardó un poco más de lo esperado
 315,765640,13000000314,9,Atención muy buena
@@ -328,15 +328,15 @@ nps_sk,responded_at_sk,nps_id,score,comment
 327,1003659,13000000326,9,Podría mejorar el empaque
 328,573841,13000000327,7,Todo perfecto
 329,969492,13000000328,8,Volvería a comprar
-330,1121888,13000000329,10,
+330,1121888,13000000329,10,No Comment
 331,794264,13000000330,7,Todo perfecto
-332,1272551,13000000331,10,
+332,1272551,13000000331,10,No Comment
 333,1109860,13000000332,9,Volvería a comprar
 334,945832,13000000333,6,Atención muy buena
-335,860789,13000000334,9,
+335,860789,13000000334,9,No Comment
 336,1060145,13000000335,8,Volvería a comprar
 337,709920,13000000336,4,Tardó un poco más de lo esperado
-338,1279711,13000000337,8,
+338,1279711,13000000337,8,No Comment
 339,763031,13000000338,8,Atención muy buena
 340,458708,13000000339,4,Volvería a comprar
 341,1141816,13000000340,7,Entrega rápida y producto excelente
@@ -364,7 +364,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 363,1055709,13000000362,10,Muy conforme con la calidad
 364,448578,13000000363,9,Volvería a comprar
 365,567945,13000000364,7,Volvería a comprar
-366,551531,13000000365,9,
+366,551531,13000000365,9,No Comment
 367,565387,13000000366,10,Podría mejorar el empaque
 368,1017003,13000000367,9,Volvería a comprar
 369,756923,13000000368,1,Tardó un poco más de lo esperado
@@ -387,12 +387,12 @@ nps_sk,responded_at_sk,nps_id,score,comment
 386,1089435,13000000385,10,Podría mejorar el empaque
 387,774436,13000000386,3,Volvería a comprar
 388,979526,13000000387,3,Atención muy buena
-389,1086376,13000000388,2,
-390,675266,13000000389,8,
-391,514417,13000000390,9,
+389,1086376,13000000388,2,No Comment
+390,675266,13000000389,8,No Comment
+391,514417,13000000390,9,No Comment
 392,1059621,13000000391,6,Podría mejorar el empaque
 393,533504,13000000392,5,Atención muy buena
-394,598105,13000000393,4,
+394,598105,13000000393,4,No Comment
 395,944034,13000000394,6,Tardó un poco más de lo esperado
 396,939632,13000000395,7,Entrega rápida y producto excelente
 397,459599,13000000396,9,Todo perfecto
@@ -410,7 +410,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 409,712166,13000000408,7,Todo perfecto
 410,793372,13000000409,10,Podría mejorar el empaque
 411,987803,13000000410,7,Volvería a comprar
-412,851945,13000000411,2,
+412,851945,13000000411,2,No Comment
 413,385367,13000000412,3,Todo perfecto
 414,643854,13000000413,9,Todo perfecto
 415,569551,13000000414,10,Volvería a comprar
@@ -430,13 +430,13 @@ nps_sk,responded_at_sk,nps_id,score,comment
 429,940871,13000000428,6,Todo perfecto
 430,872548,13000000429,9,Muy conforme con la calidad
 431,1110756,13000000430,3,Tardó un poco más de lo esperado
-432,1017950,13000000431,8,
+432,1017950,13000000431,8,No Comment
 433,1043356,13000000432,3,Volvería a comprar
 434,1220640,13000000433,8,Tardó un poco más de lo esperado
 435,584531,13000000434,9,Entrega rápida y producto excelente
 436,762408,13000000435,5,Volvería a comprar
 437,1160040,13000000436,6,Volvería a comprar
-438,633780,13000000437,9,
+438,633780,13000000437,9,No Comment
 439,541177,13000000438,2,Entrega rápida y producto excelente
 440,383616,13000000439,8,Podría mejorar el empaque
 441,448471,13000000440,7,Todo perfecto
@@ -445,7 +445,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 444,1097511,13000000443,7,Muy conforme con la calidad
 445,1219189,13000000444,8,Muy conforme con la calidad
 446,897684,13000000445,5,Tardó un poco más de lo esperado
-447,1046215,13000000446,9,
+447,1046215,13000000446,9,No Comment
 448,1016639,13000000447,9,Entrega rápida y producto excelente
 449,1176313,13000000448,8,Podría mejorar el empaque
 450,825350,13000000449,2,Muy conforme con la calidad
@@ -454,7 +454,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 453,1101549,13000000452,8,Tardó un poco más de lo esperado
 454,1031230,13000000453,5,Todo perfecto
 455,1110949,13000000454,7,Todo perfecto
-456,979848,13000000455,10,
+456,979848,13000000455,10,No Comment
 457,1177534,13000000456,10,Podría mejorar el empaque
 458,1105989,13000000457,10,Atención muy buena
 459,714144,13000000458,10,Volvería a comprar
@@ -465,7 +465,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 464,1106800,13000000463,7,Podría mejorar el empaque
 465,749123,13000000464,10,Podría mejorar el empaque
 466,514349,13000000465,0,Tardó un poco más de lo esperado
-467,725562,13000000466,8,
+467,725562,13000000466,8,No Comment
 468,833328,13000000467,9,Entrega rápida y producto excelente
 469,576086,13000000468,7,Tardó un poco más de lo esperado
 470,966834,13000000469,7,Tardó un poco más de lo esperado
@@ -475,9 +475,9 @@ nps_sk,responded_at_sk,nps_id,score,comment
 474,409598,13000000473,4,Muy conforme con la calidad
 475,1172346,13000000474,6,Entrega rápida y producto excelente
 476,1197119,13000000475,8,Todo perfecto
-477,637608,13000000476,6,
+477,637608,13000000476,6,No Comment
 478,1196474,13000000477,10,Tardó un poco más de lo esperado
-479,1222651,13000000478,0,
+479,1222651,13000000478,0,No Comment
 480,684862,13000000479,7,Podría mejorar el empaque
 481,638298,13000000480,6,Muy conforme con la calidad
 482,1171087,13000000481,6,Volvería a comprar
@@ -487,7 +487,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 486,866533,13000000485,9,Podría mejorar el empaque
 487,691007,13000000486,0,Entrega rápida y producto excelente
 488,1112850,13000000487,7,Muy conforme con la calidad
-489,544756,13000000488,9,
+489,544756,13000000488,9,No Comment
 490,1020134,13000000489,8,Entrega rápida y producto excelente
 491,1182709,13000000490,4,Todo perfecto
 492,498106,13000000491,7,Atención muy buena
@@ -516,7 +516,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 515,835770,13000000514,7,Todo perfecto
 516,474387,13000000515,9,Todo perfecto
 517,973605,13000000516,7,Podría mejorar el empaque
-518,876495,13000000517,8,
+518,876495,13000000517,8,No Comment
 519,486681,13000000518,4,Entrega rápida y producto excelente
 520,1121195,13000000519,10,Todo perfecto
 521,1128033,13000000520,2,Muy conforme con la calidad
@@ -543,7 +543,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 542,1137789,13000000541,9,Muy conforme con la calidad
 543,563205,13000000542,7,Tardó un poco más de lo esperado
 544,1238818,13000000543,8,Entrega rápida y producto excelente
-545,771263,13000000544,9,
+545,771263,13000000544,9,No Comment
 546,1120288,13000000545,5,Volvería a comprar
 547,467056,13000000546,10,Muy conforme con la calidad
 548,693247,13000000547,9,Podría mejorar el empaque
@@ -552,10 +552,10 @@ nps_sk,responded_at_sk,nps_id,score,comment
 551,1243889,13000000550,8,Muy conforme con la calidad
 552,1149230,13000000551,3,Tardó un poco más de lo esperado
 553,1077364,13000000552,10,Podría mejorar el empaque
-554,818958,13000000553,8,
+554,818958,13000000553,8,No Comment
 555,817986,13000000554,9,Atención muy buena
 556,613337,13000000555,10,Muy conforme con la calidad
-557,538044,13000000556,7,
+557,538044,13000000556,7,No Comment
 558,976808,13000000557,10,Entrega rápida y producto excelente
 559,649925,13000000558,10,Muy conforme con la calidad
 560,1167338,13000000559,3,Muy conforme con la calidad
@@ -569,7 +569,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 568,429617,13000000567,8,Podría mejorar el empaque
 569,513519,13000000568,7,Muy conforme con la calidad
 570,1073138,13000000569,7,Atención muy buena
-571,1252505,13000000570,6,
+571,1252505,13000000570,6,No Comment
 572,557902,13000000571,8,Atención muy buena
 573,598665,13000000572,9,Todo perfecto
 574,935913,13000000573,6,Todo perfecto
@@ -590,8 +590,8 @@ nps_sk,responded_at_sk,nps_id,score,comment
 589,1039330,13000000588,7,Atención muy buena
 590,1122858,13000000589,5,Tardó un poco más de lo esperado
 591,693258,13000000590,6,Muy conforme con la calidad
-592,443986,13000000591,4,
-593,692055,13000000592,0,
+592,443986,13000000591,4,No Comment
+593,692055,13000000592,0,No Comment
 594,1123506,13000000593,9,Todo perfecto
 595,710494,13000000594,2,Volvería a comprar
 596,467562,13000000595,2,Podría mejorar el empaque
@@ -608,7 +608,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 607,469773,13000000606,7,Volvería a comprar
 608,825313,13000000607,9,Entrega rápida y producto excelente
 609,1183797,13000000608,8,Tardó un poco más de lo esperado
-610,1127199,13000000609,8,
+610,1127199,13000000609,8,No Comment
 611,1094121,13000000610,9,Entrega rápida y producto excelente
 612,1267364,13000000611,8,Volvería a comprar
 613,688097,13000000612,9,Muy conforme con la calidad
@@ -641,8 +641,8 @@ nps_sk,responded_at_sk,nps_id,score,comment
 640,757278,13000000639,10,Muy conforme con la calidad
 641,539263,13000000640,10,Atención muy buena
 642,1043544,13000000641,8,Muy conforme con la calidad
-643,1095052,13000000642,2,
-644,1275148,13000000643,8,
+643,1095052,13000000642,2,No Comment
+644,1275148,13000000643,8,No Comment
 645,987743,13000000644,7,Muy conforme con la calidad
 646,1054702,13000000645,6,Podría mejorar el empaque
 647,1018628,13000000646,9,Tardó un poco más de lo esperado
@@ -654,9 +654,9 @@ nps_sk,responded_at_sk,nps_id,score,comment
 653,1017462,13000000652,6,Muy conforme con la calidad
 654,995297,13000000653,7,Muy conforme con la calidad
 655,564996,13000000654,9,Entrega rápida y producto excelente
-656,926274,13000000655,6,
+656,926274,13000000655,6,No Comment
 657,574865,13000000656,9,Volvería a comprar
-658,998208,13000000657,8,
+658,998208,13000000657,8,No Comment
 659,734517,13000000658,6,Todo perfecto
 660,1076191,13000000659,1,Todo perfecto
 661,1110009,13000000660,8,Muy conforme con la calidad
@@ -667,10 +667,10 @@ nps_sk,responded_at_sk,nps_id,score,comment
 666,1034101,13000000665,2,Muy conforme con la calidad
 667,1268877,13000000666,7,Volvería a comprar
 668,1046132,13000000667,7,Entrega rápida y producto excelente
-669,1007466,13000000668,7,
+669,1007466,13000000668,7,No Comment
 670,417199,13000000669,8,Entrega rápida y producto excelente
 671,1003731,13000000670,7,Tardó un poco más de lo esperado
-672,1076209,13000000671,6,
+672,1076209,13000000671,6,No Comment
 673,434014,13000000672,10,Volvería a comprar
 674,1029652,13000000673,7,Todo perfecto
 675,683627,13000000674,8,Volvería a comprar
@@ -678,7 +678,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 677,480712,13000000676,10,Volvería a comprar
 678,1158943,13000000677,9,Podría mejorar el empaque
 679,872818,13000000678,7,Atención muy buena
-680,384626,13000000679,8,
+680,384626,13000000679,8,No Comment
 681,453410,13000000680,7,Muy conforme con la calidad
 682,565425,13000000681,3,Podría mejorar el empaque
 683,514188,13000000682,9,Volvería a comprar
@@ -690,12 +690,12 @@ nps_sk,responded_at_sk,nps_id,score,comment
 689,1202112,13000000688,8,Podría mejorar el empaque
 690,391596,13000000689,7,Podría mejorar el empaque
 691,571974,13000000690,7,Tardó un poco más de lo esperado
-692,1022140,13000000691,10,
+692,1022140,13000000691,10,No Comment
 693,793050,13000000692,9,Tardó un poco más de lo esperado
 694,775288,13000000693,9,Volvería a comprar
 695,1256915,13000000694,9,Muy conforme con la calidad
-696,1019766,13000000695,8,
-697,1029553,13000000696,0,
+696,1019766,13000000695,8,No Comment
+697,1029553,13000000696,0,No Comment
 698,737361,13000000697,10,Podría mejorar el empaque
 699,1063816,13000000698,8,Entrega rápida y producto excelente
 700,767021,13000000699,10,Volvería a comprar
@@ -705,11 +705,11 @@ nps_sk,responded_at_sk,nps_id,score,comment
 704,602039,13000000703,8,Volvería a comprar
 705,519960,13000000704,8,Atención muy buena
 706,686618,13000000705,3,Muy conforme con la calidad
-707,392770,13000000706,1,
+707,392770,13000000706,1,No Comment
 708,1165473,13000000707,10,Volvería a comprar
 709,413546,13000000708,10,Todo perfecto
 710,1054362,13000000709,6,Podría mejorar el empaque
-711,830921,13000000710,9,
+711,830921,13000000710,9,No Comment
 712,1196886,13000000711,6,Atención muy buena
 713,436269,13000000712,3,Tardó un poco más de lo esperado
 714,897649,13000000713,9,Tardó un poco más de lo esperado
@@ -724,7 +724,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 723,435238,13000000722,7,Podría mejorar el empaque
 724,863799,13000000723,7,Podría mejorar el empaque
 725,775520,13000000724,6,Atención muy buena
-726,1173628,13000000725,7,
+726,1173628,13000000725,7,No Comment
 727,859303,13000000726,9,Muy conforme con la calidad
 728,675147,13000000727,3,Tardó un poco más de lo esperado
 729,405007,13000000728,9,Todo perfecto
@@ -733,39 +733,39 @@ nps_sk,responded_at_sk,nps_id,score,comment
 732,1233105,13000000731,5,Muy conforme con la calidad
 733,958437,13000000732,0,Muy conforme con la calidad
 734,375545,13000000733,8,Entrega rápida y producto excelente
-735,1013530,13000000734,7,
-736,872588,13000000735,8,
+735,1013530,13000000734,7,No Comment
+736,872588,13000000735,8,No Comment
 737,942151,13000000736,7,Tardó un poco más de lo esperado
 738,782841,13000000737,6,Entrega rápida y producto excelente
 739,775502,13000000738,4,Tardó un poco más de lo esperado
 740,1108792,13000000739,7,Muy conforme con la calidad
-741,558122,13000000740,9,
+741,558122,13000000740,9,No Comment
 742,1214221,13000000741,10,Tardó un poco más de lo esperado
 743,620595,13000000742,6,Entrega rápida y producto excelente
 744,588292,13000000743,5,Muy conforme con la calidad
 745,557412,13000000744,7,Volvería a comprar
-746,515157,13000000745,10,
-747,1082370,13000000746,10,
+746,515157,13000000745,10,No Comment
+747,1082370,13000000746,10,No Comment
 748,1060363,13000000747,3,Tardó un poco más de lo esperado
-749,1235166,13000000748,8,
+749,1235166,13000000748,8,No Comment
 750,1256659,13000000749,9,Entrega rápida y producto excelente
 751,451249,13000000750,8,Volvería a comprar
-752,531676,13000000751,9,
+752,531676,13000000751,9,No Comment
 753,1095064,13000000752,7,Entrega rápida y producto excelente
-754,904750,13000000753,5,
+754,904750,13000000753,5,No Comment
 755,1279233,13000000754,7,Todo perfecto
 756,953655,13000000755,0,Muy conforme con la calidad
-757,716505,13000000756,9,
+757,716505,13000000756,9,No Comment
 758,1087275,13000000757,8,Muy conforme con la calidad
 759,584821,13000000758,0,Todo perfecto
 760,507864,13000000759,5,Todo perfecto
-761,1020027,13000000760,10,
-762,654412,13000000761,10,
+761,1020027,13000000760,10,No Comment
+762,654412,13000000761,10,No Comment
 763,445780,13000000762,8,Tardó un poco más de lo esperado
 764,1253937,13000000763,7,Entrega rápida y producto excelente
 765,1190679,13000000764,9,Atención muy buena
 766,625623,13000000765,3,Entrega rápida y producto excelente
-767,1254305,13000000766,10,
+767,1254305,13000000766,10,No Comment
 768,1027957,13000000767,8,Todo perfecto
 769,671843,13000000768,10,Todo perfecto
 770,584638,13000000769,8,Podría mejorar el empaque
@@ -775,7 +775,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 774,496184,13000000773,9,Tardó un poco más de lo esperado
 775,994641,13000000774,9,Entrega rápida y producto excelente
 776,967694,13000000775,0,Muy conforme con la calidad
-777,711868,13000000776,9,
+777,711868,13000000776,9,No Comment
 778,376359,13000000777,8,Todo perfecto
 779,753444,13000000778,10,Entrega rápida y producto excelente
 780,1195286,13000000779,9,Atención muy buena
@@ -787,22 +787,22 @@ nps_sk,responded_at_sk,nps_id,score,comment
 786,1252258,13000000785,4,Podría mejorar el empaque
 787,1046248,13000000786,10,Todo perfecto
 788,485663,13000000787,9,Tardó un poco más de lo esperado
-789,714428,13000000788,2,
+789,714428,13000000788,2,No Comment
 790,831915,13000000789,8,Muy conforme con la calidad
 791,695704,13000000790,7,Entrega rápida y producto excelente
 792,785964,13000000791,10,Entrega rápida y producto excelente
 793,1269306,13000000792,8,Volvería a comprar
 794,384077,13000000793,7,Entrega rápida y producto excelente
-795,691859,13000000794,5,
+795,691859,13000000794,5,No Comment
 796,843255,13000000795,10,Todo perfecto
 797,1109651,13000000796,6,Muy conforme con la calidad
 798,865679,13000000797,7,Tardó un poco más de lo esperado
-799,525414,13000000798,10,
+799,525414,13000000798,10,No Comment
 800,876219,13000000799,5,Volvería a comprar
 801,1079225,13000000800,9,Volvería a comprar
 802,875075,13000000801,8,Muy conforme con la calidad
 803,800927,13000000802,6,Podría mejorar el empaque
-804,1045284,13000000803,10,
+804,1045284,13000000803,10,No Comment
 805,475973,13000000804,8,Atención muy buena
 806,538125,13000000805,7,Tardó un poco más de lo esperado
 807,1070700,13000000806,8,Tardó un poco más de lo esperado
@@ -814,7 +814,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 813,385282,13000000812,0,Atención muy buena
 814,1196777,13000000813,2,Entrega rápida y producto excelente
 815,458345,13000000814,8,Entrega rápida y producto excelente
-816,527471,13000000815,10,
+816,527471,13000000815,10,No Comment
 817,1272402,13000000816,9,Muy conforme con la calidad
 818,933622,13000000817,6,Podría mejorar el empaque
 819,785763,13000000818,10,Volvería a comprar
@@ -834,12 +834,12 @@ nps_sk,responded_at_sk,nps_id,score,comment
 833,378443,13000000832,5,Atención muy buena
 834,468140,13000000833,7,Tardó un poco más de lo esperado
 835,1284581,13000000834,1,Volvería a comprar
-836,925651,13000000835,1,
+836,925651,13000000835,1,No Comment
 837,588368,13000000836,9,Podría mejorar el empaque
 838,528629,13000000837,8,Volvería a comprar
 839,802721,13000000838,5,Podría mejorar el empaque
 840,804259,13000000839,9,Entrega rápida y producto excelente
-841,835003,13000000840,8,
+841,835003,13000000840,8,No Comment
 842,1176842,13000000841,7,Atención muy buena
 843,749192,13000000842,8,Todo perfecto
 844,570523,13000000843,10,Todo perfecto
@@ -878,9 +878,9 @@ nps_sk,responded_at_sk,nps_id,score,comment
 877,1054879,13000000876,7,Tardó un poco más de lo esperado
 878,1040009,13000000877,9,Todo perfecto
 879,763311,13000000878,7,Tardó un poco más de lo esperado
-880,966462,13000000879,9,
+880,966462,13000000879,9,No Comment
 881,1066966,13000000880,8,Atención muy buena
-882,1156273,13000000881,6,
+882,1156273,13000000881,6,No Comment
 883,1270121,13000000882,9,Tardó un poco más de lo esperado
 884,447564,13000000883,9,Tardó un poco más de lo esperado
 885,759744,13000000884,9,Tardó un poco más de lo esperado
@@ -903,7 +903,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 902,1139376,13000000901,9,Entrega rápida y producto excelente
 903,719756,13000000902,8,Podría mejorar el empaque
 904,799617,13000000903,1,Atención muy buena
-905,1191861,13000000904,3,
+905,1191861,13000000904,3,No Comment
 906,944569,13000000905,10,Entrega rápida y producto excelente
 907,1015400,13000000906,6,Volvería a comprar
 908,1254694,13000000907,8,Tardó un poco más de lo esperado
@@ -912,21 +912,21 @@ nps_sk,responded_at_sk,nps_id,score,comment
 911,1024460,13000000910,8,Podría mejorar el empaque
 912,422628,13000000911,10,Podría mejorar el empaque
 913,379121,13000000912,8,Tardó un poco más de lo esperado
-914,1065399,13000000913,8,
+914,1065399,13000000913,8,No Comment
 915,951141,13000000914,10,Todo perfecto
-916,955997,13000000915,8,
+916,955997,13000000915,8,No Comment
 917,709624,13000000916,9,Tardó un poco más de lo esperado
-918,1214244,13000000917,6,
+918,1214244,13000000917,6,No Comment
 919,530139,13000000918,10,Muy conforme con la calidad
-920,861130,13000000919,7,
-921,446449,13000000920,4,
+920,861130,13000000919,7,No Comment
+921,446449,13000000920,4,No Comment
 922,535636,13000000921,4,Volvería a comprar
-923,1287053,13000000922,4,
+923,1287053,13000000922,4,No Comment
 924,905177,13000000923,7,Tardó un poco más de lo esperado
 925,822925,13000000924,4,Muy conforme con la calidad
 926,1026051,13000000925,7,Todo perfecto
 927,947819,13000000926,7,Muy conforme con la calidad
-928,583018,13000000927,9,
+928,583018,13000000927,9,No Comment
 929,863284,13000000928,8,Tardó un poco más de lo esperado
 930,662592,13000000929,10,Todo perfecto
 931,1052938,13000000930,6,Tardó un poco más de lo esperado
@@ -946,34 +946,34 @@ nps_sk,responded_at_sk,nps_id,score,comment
 945,680352,13000000944,9,Muy conforme con la calidad
 946,1103166,13000000945,10,Tardó un poco más de lo esperado
 947,811362,13000000946,2,Tardó un poco más de lo esperado
-948,1177761,13000000947,9,
+948,1177761,13000000947,9,No Comment
 949,656569,13000000948,9,Podría mejorar el empaque
 950,669690,13000000949,10,Muy conforme con la calidad
 951,645521,13000000950,6,Volvería a comprar
-952,470528,13000000951,10,
-953,878228,13000000952,9,
+952,470528,13000000951,10,No Comment
+953,878228,13000000952,9,No Comment
 954,1083786,13000000953,10,Volvería a comprar
 955,691336,13000000954,4,Tardó un poco más de lo esperado
 956,1075367,13000000955,10,Atención muy buena
 957,990872,13000000956,8,Muy conforme con la calidad
-958,1046678,13000000957,10,
+958,1046678,13000000957,10,No Comment
 959,1070834,13000000958,9,Todo perfecto
 960,507497,13000000959,9,Podría mejorar el empaque
 961,1087641,13000000960,8,Podría mejorar el empaque
 962,444874,13000000961,9,Atención muy buena
-963,703048,13000000962,6,
+963,703048,13000000962,6,No Comment
 964,394946,13000000963,8,Entrega rápida y producto excelente
 965,1132547,13000000964,9,Muy conforme con la calidad
-966,1210481,13000000965,9,
+966,1210481,13000000965,9,No Comment
 967,759221,13000000966,3,Todo perfecto
 968,444539,13000000967,0,Podría mejorar el empaque
 969,424865,13000000968,6,Todo perfecto
 970,782723,13000000969,7,Entrega rápida y producto excelente
 971,423024,13000000970,8,Volvería a comprar
-972,947874,13000000971,10,
-973,1029657,13000000972,10,
+972,947874,13000000971,10,No Comment
+973,1029657,13000000972,10,No Comment
 974,1239604,13000000973,8,Todo perfecto
-975,916183,13000000974,8,
+975,916183,13000000974,8,No Comment
 976,784612,13000000975,10,Podría mejorar el empaque
 977,1033743,13000000976,6,Muy conforme con la calidad
 978,765534,13000000977,10,Atención muy buena
@@ -991,9 +991,9 @@ nps_sk,responded_at_sk,nps_id,score,comment
 990,967795,13000000989,8,Podría mejorar el empaque
 991,572058,13000000990,10,Entrega rápida y producto excelente
 992,871913,13000000991,9,Atención muy buena
-993,1034491,13000000992,10,
-994,789362,13000000993,9,
-995,823723,13000000994,10,
+993,1034491,13000000992,10,No Comment
+994,789362,13000000993,9,No Comment
+995,823723,13000000994,10,No Comment
 996,903481,13000000995,2,Tardó un poco más de lo esperado
 997,1172975,13000000996,10,Podría mejorar el empaque
 998,1118958,13000000997,10,Tardó un poco más de lo esperado
@@ -1004,9 +1004,9 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1003,1138811,13000001002,7,Entrega rápida y producto excelente
 1004,992100,13000001003,6,Todo perfecto
 1005,622081,13000001004,10,Tardó un poco más de lo esperado
-1006,812921,13000001005,8,
+1006,812921,13000001005,8,No Comment
 1007,1199063,13000001006,7,Podría mejorar el empaque
-1008,885925,13000001007,10,
+1008,885925,13000001007,10,No Comment
 1009,542584,13000001008,8,Tardó un poco más de lo esperado
 1010,1125317,13000001009,10,Volvería a comprar
 1011,624156,13000001010,10,Entrega rápida y producto excelente
@@ -1014,8 +1014,8 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1013,742563,13000001012,2,Muy conforme con la calidad
 1014,430007,13000001013,7,Tardó un poco más de lo esperado
 1015,538715,13000001014,10,Todo perfecto
-1016,725181,13000001015,6,
-1017,788311,13000001016,9,
+1016,725181,13000001015,6,No Comment
+1017,788311,13000001016,9,No Comment
 1018,537358,13000001017,7,Podría mejorar el empaque
 1019,1282749,13000001018,10,Atención muy buena
 1020,1097130,13000001019,7,Entrega rápida y producto excelente
@@ -1028,7 +1028,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1027,686916,13000001026,2,Muy conforme con la calidad
 1028,1022612,13000001027,8,Tardó un poco más de lo esperado
 1029,868137,13000001028,3,Muy conforme con la calidad
-1030,1253978,13000001029,7,
+1030,1253978,13000001029,7,No Comment
 1031,543864,13000001030,3,Entrega rápida y producto excelente
 1032,1034279,13000001031,5,Muy conforme con la calidad
 1033,544995,13000001032,9,Volvería a comprar
@@ -1044,31 +1044,31 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1043,1201478,13000001042,8,Atención muy buena
 1044,755378,13000001043,9,Todo perfecto
 1045,474789,13000001044,9,Muy conforme con la calidad
-1046,861232,13000001045,8,
+1046,861232,13000001045,8,No Comment
 1047,431590,13000001046,7,Todo perfecto
 1048,1285101,13000001047,8,Muy conforme con la calidad
-1049,807140,13000001048,1,
+1049,807140,13000001048,1,No Comment
 1050,1035578,13000001049,7,Tardó un poco más de lo esperado
 1051,977088,13000001050,8,Atención muy buena
 1052,1154975,13000001051,7,Volvería a comprar
 1053,1223808,13000001052,7,Muy conforme con la calidad
 1054,986356,13000001053,1,Volvería a comprar
-1055,696263,13000001054,8,
+1055,696263,13000001054,8,No Comment
 1056,461962,13000001055,8,Todo perfecto
 1057,1165889,13000001056,9,Podría mejorar el empaque
 1058,699439,13000001057,9,Tardó un poco más de lo esperado
-1059,680809,13000001058,4,
+1059,680809,13000001058,4,No Comment
 1060,813998,13000001059,10,Atención muy buena
 1061,623678,13000001060,7,Entrega rápida y producto excelente
 1062,792523,13000001061,10,Volvería a comprar
-1063,431134,13000001062,3,
+1063,431134,13000001062,3,No Comment
 1064,439866,13000001063,7,Muy conforme con la calidad
 1065,791027,13000001064,6,Volvería a comprar
 1066,1208394,13000001065,10,Tardó un poco más de lo esperado
 1067,1118738,13000001066,10,Muy conforme con la calidad
 1068,1164195,13000001067,6,Atención muy buena
 1069,1064918,13000001068,8,Volvería a comprar
-1070,874695,13000001069,9,
+1070,874695,13000001069,9,No Comment
 1071,1244612,13000001070,7,Muy conforme con la calidad
 1072,1211990,13000001071,0,Muy conforme con la calidad
 1073,869488,13000001072,7,Muy conforme con la calidad
@@ -1076,22 +1076,22 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1075,1158664,13000001074,10,Entrega rápida y producto excelente
 1076,1053331,13000001075,5,Podría mejorar el empaque
 1077,1043735,13000001076,8,Podría mejorar el empaque
-1078,1153104,13000001077,0,
+1078,1153104,13000001077,0,No Comment
 1079,955507,13000001078,9,Volvería a comprar
 1080,1150548,13000001079,3,Todo perfecto
 1081,775860,13000001080,10,Todo perfecto
 1082,952848,13000001081,6,Todo perfecto
 1083,969212,13000001082,8,Entrega rápida y producto excelente
 1084,1218348,13000001083,4,Atención muy buena
-1085,1100683,13000001084,4,
+1085,1100683,13000001084,4,No Comment
 1086,1076216,13000001085,9,Todo perfecto
-1087,1103554,13000001086,9,
+1087,1103554,13000001086,9,No Comment
 1088,655951,13000001087,3,Muy conforme con la calidad
 1089,546873,13000001088,2,Entrega rápida y producto excelente
 1090,634056,13000001089,9,Podría mejorar el empaque
 1091,1029258,13000001090,7,Atención muy buena
 1092,831175,13000001091,7,Tardó un poco más de lo esperado
-1093,1096882,13000001092,7,
+1093,1096882,13000001092,7,No Comment
 1094,634606,13000001093,4,Atención muy buena
 1095,1160686,13000001094,5,Podría mejorar el empaque
 1096,874277,13000001095,9,Entrega rápida y producto excelente
@@ -1111,12 +1111,12 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1110,1201594,13000001109,10,Podría mejorar el empaque
 1111,664169,13000001110,5,Entrega rápida y producto excelente
 1112,687005,13000001111,10,Tardó un poco más de lo esperado
-1113,880320,13000001112,9,
+1113,880320,13000001112,9,No Comment
 1114,904008,13000001113,6,Todo perfecto
-1115,916847,13000001114,7,
+1115,916847,13000001114,7,No Comment
 1116,773575,13000001115,6,Atención muy buena
 1117,1195810,13000001116,9,Atención muy buena
-1118,1093996,13000001117,1,
+1118,1093996,13000001117,1,No Comment
 1119,710220,13000001118,9,Podría mejorar el empaque
 1120,1060893,13000001119,7,Podría mejorar el empaque
 1121,658191,13000001120,1,Volvería a comprar
@@ -1127,15 +1127,15 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1126,599309,13000001125,3,Entrega rápida y producto excelente
 1127,881767,13000001126,3,Podría mejorar el empaque
 1128,980423,13000001127,4,Entrega rápida y producto excelente
-1129,670644,13000001128,8,
+1129,670644,13000001128,8,No Comment
 1130,1128943,13000001129,9,Muy conforme con la calidad
 1131,1178751,13000001130,9,Podría mejorar el empaque
 1132,1029783,13000001131,8,Atención muy buena
 1133,546194,13000001132,8,Entrega rápida y producto excelente
 1134,855796,13000001133,9,Todo perfecto
-1135,894222,13000001134,9,
+1135,894222,13000001134,9,No Comment
 1136,810896,13000001135,8,Tardó un poco más de lo esperado
-1137,569802,13000001136,0,
+1137,569802,13000001136,0,No Comment
 1138,649776,13000001137,7,Entrega rápida y producto excelente
 1139,701510,13000001138,9,Atención muy buena
 1140,491353,13000001139,7,Muy conforme con la calidad
@@ -1145,7 +1145,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1144,1267654,13000001143,2,Entrega rápida y producto excelente
 1145,549743,13000001144,10,Todo perfecto
 1146,1003947,13000001145,7,Atención muy buena
-1147,785328,13000001146,8,
+1147,785328,13000001146,8,No Comment
 1148,1234099,13000001147,8,Podría mejorar el empaque
 1149,808132,13000001148,7,Tardó un poco más de lo esperado
 1150,893400,13000001149,9,Tardó un poco más de lo esperado
@@ -1160,41 +1160,41 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1159,1185166,13000001158,9,Atención muy buena
 1160,1080514,13000001159,10,Muy conforme con la calidad
 1161,419587,13000001160,8,Podría mejorar el empaque
-1162,1173821,13000001161,1,
+1162,1173821,13000001161,1,No Comment
 1163,1124685,13000001162,8,Entrega rápida y producto excelente
 1164,814232,13000001163,10,Volvería a comprar
 1165,512985,13000001164,7,Atención muy buena
 1166,705549,13000001165,9,Muy conforme con la calidad
 1167,526420,13000001166,4,Volvería a comprar
 1168,880788,13000001167,9,Podría mejorar el empaque
-1169,557443,13000001168,0,
+1169,557443,13000001168,0,No Comment
 1170,525097,13000001169,10,Podría mejorar el empaque
 1171,1086453,13000001170,7,Atención muy buena
-1172,774149,13000001171,9,
+1172,774149,13000001171,9,No Comment
 1173,992939,13000001172,8,Muy conforme con la calidad
-1174,1085836,13000001173,5,
-1175,938510,13000001174,8,
+1174,1085836,13000001173,5,No Comment
+1175,938510,13000001174,8,No Comment
 1176,928216,13000001175,9,Tardó un poco más de lo esperado
-1177,928620,13000001176,8,
+1177,928620,13000001176,8,No Comment
 1178,742880,13000001177,8,Entrega rápida y producto excelente
 1179,1252504,13000001178,8,Podría mejorar el empaque
 1180,578545,13000001179,9,Todo perfecto
-1181,744125,13000001180,10,
+1181,744125,13000001180,10,No Comment
 1182,746941,13000001181,6,Atención muy buena
 1183,851748,13000001182,9,Todo perfecto
 1184,495599,13000001183,10,Muy conforme con la calidad
 1185,505964,13000001184,7,Podría mejorar el empaque
 1186,980226,13000001185,8,Muy conforme con la calidad
-1187,1175486,13000001186,1,
-1188,1034267,13000001187,6,
+1187,1175486,13000001186,1,No Comment
+1188,1034267,13000001187,6,No Comment
 1189,1088724,13000001188,8,Volvería a comprar
 1190,1070565,13000001189,7,Atención muy buena
 1191,835703,13000001190,9,Muy conforme con la calidad
-1192,657411,13000001191,5,
+1192,657411,13000001191,5,No Comment
 1193,686160,13000001192,9,Muy conforme con la calidad
 1194,454914,13000001193,5,Todo perfecto
 1195,903064,13000001194,8,Todo perfecto
-1196,937613,13000001195,8,
+1196,937613,13000001195,8,No Comment
 1197,474757,13000001196,10,Muy conforme con la calidad
 1198,582623,13000001197,9,Tardó un poco más de lo esperado
 1199,607667,13000001198,1,Podría mejorar el empaque
@@ -1205,20 +1205,20 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1204,961185,13000001203,1,Tardó un poco más de lo esperado
 1205,522832,13000001204,7,Podría mejorar el empaque
 1206,935928,13000001205,7,Podría mejorar el empaque
-1207,739912,13000001206,7,
+1207,739912,13000001206,7,No Comment
 1208,453136,13000001207,8,Todo perfecto
 1209,896118,13000001208,9,Volvería a comprar
 1210,1285141,13000001209,10,Podría mejorar el empaque
 1211,439974,13000001210,9,Muy conforme con la calidad
 1212,1171990,13000001211,5,Tardó un poco más de lo esperado
 1213,408014,13000001212,8,Podría mejorar el empaque
-1214,433067,13000001213,0,
+1214,433067,13000001213,0,No Comment
 1215,408788,13000001214,10,Entrega rápida y producto excelente
 1216,1130636,13000001215,7,Podría mejorar el empaque
 1217,496046,13000001216,8,Volvería a comprar
 1218,611886,13000001217,9,Entrega rápida y producto excelente
 1219,620774,13000001218,8,Atención muy buena
-1220,1168950,13000001219,7,
+1220,1168950,13000001219,7,No Comment
 1221,1280594,13000001220,9,Tardó un poco más de lo esperado
 1222,863065,13000001221,4,Tardó un poco más de lo esperado
 1223,1084526,13000001222,3,Muy conforme con la calidad
@@ -1226,14 +1226,14 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1225,1158677,13000001224,10,Podría mejorar el empaque
 1226,1018576,13000001225,9,Tardó un poco más de lo esperado
 1227,626089,13000001226,8,Atención muy buena
-1228,423607,13000001227,8,
+1228,423607,13000001227,8,No Comment
 1229,427206,13000001228,7,Volvería a comprar
 1230,1132496,13000001229,9,Atención muy buena
 1231,408692,13000001230,0,Muy conforme con la calidad
 1232,508892,13000001231,6,Muy conforme con la calidad
 1233,903667,13000001232,3,Entrega rápida y producto excelente
-1234,1021608,13000001233,9,
-1235,467955,13000001234,9,
+1234,1021608,13000001233,9,No Comment
+1235,467955,13000001234,9,No Comment
 1236,954797,13000001235,7,Muy conforme con la calidad
 1237,958297,13000001236,8,Tardó un poco más de lo esperado
 1238,373991,13000001237,3,Tardó un poco más de lo esperado
@@ -1241,14 +1241,14 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1240,765896,13000001239,9,Tardó un poco más de lo esperado
 1241,1049806,13000001240,5,Entrega rápida y producto excelente
 1242,1235828,13000001241,7,Todo perfecto
-1243,491819,13000001242,6,
+1243,491819,13000001242,6,No Comment
 1244,1233712,13000001243,9,Tardó un poco más de lo esperado
 1245,965814,13000001244,7,Muy conforme con la calidad
 1246,1020265,13000001245,10,Todo perfecto
 1247,725942,13000001246,7,Tardó un poco más de lo esperado
 1248,1049773,13000001247,5,Muy conforme con la calidad
 1249,586504,13000001248,7,Entrega rápida y producto excelente
-1250,519336,13000001249,9,
+1250,519336,13000001249,9,No Comment
 1251,1266563,13000001250,9,Muy conforme con la calidad
 1252,852701,13000001251,4,Atención muy buena
 1253,502841,13000001252,8,Atención muy buena
@@ -1256,23 +1256,23 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1255,1148382,13000001254,9,Tardó un poco más de lo esperado
 1256,940464,13000001255,0,Volvería a comprar
 1257,894810,13000001256,5,Volvería a comprar
-1258,614529,13000001257,6,
+1258,614529,13000001257,6,No Comment
 1259,507136,13000001258,10,Entrega rápida y producto excelente
 1260,510732,13000001259,3,Todo perfecto
 1261,482449,13000001260,10,Tardó un poco más de lo esperado
 1262,958050,13000001261,8,Podría mejorar el empaque
 1263,970663,13000001262,8,Podría mejorar el empaque
-1264,981048,13000001263,8,
+1264,981048,13000001263,8,No Comment
 1265,566893,13000001264,9,Entrega rápida y producto excelente
 1266,633478,13000001265,6,Todo perfecto
-1267,453996,13000001266,6,
+1267,453996,13000001266,6,No Comment
 1268,561578,13000001267,10,Todo perfecto
-1269,1086339,13000001268,8,
+1269,1086339,13000001268,8,No Comment
 1270,453032,13000001269,2,Entrega rápida y producto excelente
 1271,1009634,13000001270,10,Atención muy buena
 1272,756079,13000001271,7,Tardó un poco más de lo esperado
 1273,952681,13000001272,8,Volvería a comprar
-1274,430581,13000001273,8,
+1274,430581,13000001273,8,No Comment
 1275,1018570,13000001274,8,Volvería a comprar
 1276,654952,13000001275,10,Volvería a comprar
 1277,387287,13000001276,8,Tardó un poco más de lo esperado
@@ -1287,7 +1287,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1286,1175159,13000001285,1,Volvería a comprar
 1287,833760,13000001286,1,Atención muy buena
 1288,1143205,13000001287,10,Tardó un poco más de lo esperado
-1289,854938,13000001288,9,
+1289,854938,13000001288,9,No Comment
 1290,1100619,13000001289,7,Todo perfecto
 1291,405437,13000001290,6,Atención muy buena
 1292,437357,13000001291,6,Muy conforme con la calidad
@@ -1295,8 +1295,8 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1294,1081001,13000001293,9,Tardó un poco más de lo esperado
 1295,734847,13000001294,6,Atención muy buena
 1296,906482,13000001295,7,Muy conforme con la calidad
-1297,1139717,13000001296,6,
-1298,856028,13000001297,10,
+1297,1139717,13000001296,6,No Comment
+1298,856028,13000001297,10,No Comment
 1299,1125221,13000001298,10,Volvería a comprar
 1300,737104,13000001299,6,Podría mejorar el empaque
 1301,1196771,13000001300,9,Volvería a comprar
@@ -1309,23 +1309,23 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1308,910672,13000001307,10,Podría mejorar el empaque
 1309,1007657,13000001308,8,Entrega rápida y producto excelente
 1310,740074,13000001309,6,Muy conforme con la calidad
-1311,1228073,13000001310,4,
+1311,1228073,13000001310,4,No Comment
 1312,1024112,13000001311,8,Todo perfecto
 1313,524402,13000001312,3,Entrega rápida y producto excelente
-1314,429508,13000001313,6,
+1314,429508,13000001313,6,No Comment
 1315,680816,13000001314,1,Muy conforme con la calidad
 1316,870244,13000001315,6,Entrega rápida y producto excelente
 1317,586289,13000001316,7,Tardó un poco más de lo esperado
-1318,383879,13000001317,9,
-1319,1272032,13000001318,6,
+1318,383879,13000001317,9,No Comment
+1319,1272032,13000001318,6,No Comment
 1320,1232466,13000001319,0,Muy conforme con la calidad
-1321,683759,13000001320,6,
-1322,971321,13000001321,7,
+1321,683759,13000001320,6,No Comment
+1322,971321,13000001321,7,No Comment
 1323,411551,13000001322,0,Muy conforme con la calidad
 1324,389039,13000001323,9,Muy conforme con la calidad
 1325,788957,13000001324,6,Tardó un poco más de lo esperado
 1326,392917,13000001325,9,Muy conforme con la calidad
-1327,453672,13000001326,0,
+1327,453672,13000001326,0,No Comment
 1328,1129910,13000001327,7,Atención muy buena
 1329,671478,13000001328,9,Todo perfecto
 1330,940814,13000001329,6,Entrega rápida y producto excelente
@@ -1336,13 +1336,13 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1335,1122515,13000001334,9,Entrega rápida y producto excelente
 1336,1016135,13000001335,10,Atención muy buena
 1337,980648,13000001336,10,Entrega rápida y producto excelente
-1338,700416,13000001337,8,
+1338,700416,13000001337,8,No Comment
 1339,1221623,13000001338,9,Tardó un poco más de lo esperado
 1340,1111119,13000001339,3,Volvería a comprar
 1341,1175776,13000001340,9,Podría mejorar el empaque
 1342,1115641,13000001341,10,Todo perfecto
 1343,990371,13000001342,10,Atención muy buena
-1344,728585,13000001343,8,
+1344,728585,13000001343,8,No Comment
 1345,977934,13000001344,10,Todo perfecto
 1346,1275622,13000001345,7,Podría mejorar el empaque
 1347,429516,13000001346,3,Entrega rápida y producto excelente
@@ -1350,81 +1350,81 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1349,779925,13000001348,7,Tardó un poco más de lo esperado
 1350,1206506,13000001349,5,Volvería a comprar
 1351,1107850,13000001350,8,Muy conforme con la calidad
-1352,1136322,13000001351,9,
+1352,1136322,13000001351,9,No Comment
 1353,1084173,13000001352,5,Podría mejorar el empaque
 1354,1155084,13000001353,7,Entrega rápida y producto excelente
 1355,1215121,13000001354,7,Entrega rápida y producto excelente
 1356,433995,13000001355,5,Volvería a comprar
 1357,1076927,13000001356,9,Tardó un poco más de lo esperado
-1358,1271157,13000001357,8,
+1358,1271157,13000001357,8,No Comment
 1359,1087274,13000001358,5,Muy conforme con la calidad
 1360,1132648,13000001359,10,Muy conforme con la calidad
-1361,472863,13000001360,10,
+1361,472863,13000001360,10,No Comment
 1362,593863,13000001361,10,Volvería a comprar
 1363,392111,13000001362,10,Tardó un poco más de lo esperado
-1364,542803,13000001363,9,
+1364,542803,13000001363,9,No Comment
 1365,986036,13000001364,9,Atención muy buena
 1366,1248389,13000001365,5,Todo perfecto
-1367,731773,13000001366,8,
+1367,731773,13000001366,8,No Comment
 1368,650997,13000001367,2,Muy conforme con la calidad
 1369,1260885,13000001368,0,Atención muy buena
 1370,1235358,13000001369,7,Podría mejorar el empaque
 1371,433309,13000001370,10,Todo perfecto
 1372,1240853,13000001371,5,Muy conforme con la calidad
-1373,871605,13000001372,8,
+1373,871605,13000001372,8,No Comment
 1374,1162310,13000001373,9,Volvería a comprar
 1375,627704,13000001374,9,Podría mejorar el empaque
-1376,1284274,13000001375,9,
+1376,1284274,13000001375,9,No Comment
 1377,1089828,13000001376,5,Todo perfecto
 1378,442947,13000001377,9,Podría mejorar el empaque
 1379,595138,13000001378,9,Volvería a comprar
 1380,544992,13000001379,8,Volvería a comprar
 1381,611768,13000001380,10,Muy conforme con la calidad
 1382,1083846,13000001381,9,Todo perfecto
-1383,927030,13000001382,3,
+1383,927030,13000001382,3,No Comment
 1384,549603,13000001383,9,Entrega rápida y producto excelente
 1385,949370,13000001384,7,Todo perfecto
 1386,831282,13000001385,0,Atención muy buena
 1387,1187774,13000001386,8,Entrega rápida y producto excelente
 1388,1290027,13000001387,0,Podría mejorar el empaque
-1389,932225,13000001388,9,
+1389,932225,13000001388,9,No Comment
 1390,1258367,13000001389,8,Atención muy buena
 1391,518152,13000001390,4,Volvería a comprar
-1392,1110968,13000001391,9,
-1393,1074096,13000001392,10,
+1392,1110968,13000001391,9,No Comment
+1393,1074096,13000001392,10,No Comment
 1394,706127,13000001393,9,Muy conforme con la calidad
-1395,1206010,13000001394,9,
+1395,1206010,13000001394,9,No Comment
 1396,577042,13000001395,3,Entrega rápida y producto excelente
 1397,851323,13000001396,7,Muy conforme con la calidad
 1398,1184894,13000001397,3,Podría mejorar el empaque
 1399,661572,13000001398,7,Atención muy buena
 1400,915557,13000001399,7,Atención muy buena
-1401,860028,13000001400,7,
+1401,860028,13000001400,7,No Comment
 1402,413511,13000001401,7,Tardó un poco más de lo esperado
 1403,872728,13000001402,6,Atención muy buena
 1404,1246990,13000001403,0,Entrega rápida y producto excelente
 1405,627048,13000001404,5,Volvería a comprar
 1406,524830,13000001405,10,Muy conforme con la calidad
 1407,1250464,13000001406,5,Atención muy buena
-1408,1041098,13000001407,5,
+1408,1041098,13000001407,5,No Comment
 1409,550399,13000001408,3,Atención muy buena
 1410,846416,13000001409,10,Tardó un poco más de lo esperado
-1411,792224,13000001410,9,
+1411,792224,13000001410,9,No Comment
 1412,949862,13000001411,8,Atención muy buena
 1413,406232,13000001412,7,Muy conforme con la calidad
-1414,985812,13000001413,7,
+1414,985812,13000001413,7,No Comment
 1415,1143313,13000001414,9,Tardó un poco más de lo esperado
 1416,795109,13000001415,8,Entrega rápida y producto excelente
 1417,964321,13000001416,4,Tardó un poco más de lo esperado
 1418,1234865,13000001417,8,Podría mejorar el empaque
-1419,1146702,13000001418,8,
+1419,1146702,13000001418,8,No Comment
 1420,1282638,13000001419,9,Muy conforme con la calidad
 1421,662786,13000001420,7,Muy conforme con la calidad
 1422,979424,13000001421,9,Atención muy buena
 1423,756558,13000001422,9,Muy conforme con la calidad
 1424,1279951,13000001423,9,Podría mejorar el empaque
 1425,707964,13000001424,1,Tardó un poco más de lo esperado
-1426,1276429,13000001425,3,
+1426,1276429,13000001425,3,No Comment
 1427,1239982,13000001426,10,Tardó un poco más de lo esperado
 1428,987121,13000001427,6,Muy conforme con la calidad
 1429,692031,13000001428,6,Tardó un poco más de lo esperado
@@ -1457,15 +1457,15 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1456,411972,13000001455,7,Todo perfecto
 1457,687014,13000001456,8,Muy conforme con la calidad
 1458,811280,13000001457,10,Entrega rápida y producto excelente
-1459,787900,13000001458,7,
+1459,787900,13000001458,7,No Comment
 1460,944563,13000001459,9,Podría mejorar el empaque
 1461,1240929,13000001460,5,Todo perfecto
 1462,838570,13000001461,7,Podría mejorar el empaque
 1463,826529,13000001462,10,Tardó un poco más de lo esperado
 1464,632460,13000001463,7,Entrega rápida y producto excelente
 1465,1019314,13000001464,8,Tardó un poco más de lo esperado
-1466,577549,13000001465,9,
-1467,1120070,13000001466,7,
+1466,577549,13000001465,9,No Comment
+1467,1120070,13000001466,7,No Comment
 1468,823647,13000001467,5,Podría mejorar el empaque
 1469,481530,13000001468,3,Todo perfecto
 1470,984406,13000001469,9,Volvería a comprar
@@ -1474,17 +1474,17 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1473,1084201,13000001472,10,Entrega rápida y producto excelente
 1474,737406,13000001473,8,Entrega rápida y producto excelente
 1475,1226174,13000001474,10,Podría mejorar el empaque
-1476,789885,13000001475,7,
+1476,789885,13000001475,7,No Comment
 1477,575806,13000001476,9,Todo perfecto
 1478,789286,13000001477,6,Podría mejorar el empaque
-1479,636999,13000001478,8,
+1479,636999,13000001478,8,No Comment
 1480,841157,13000001479,4,Entrega rápida y producto excelente
 1481,819189,13000001480,5,Volvería a comprar
 1482,486111,13000001481,9,Todo perfecto
 1483,858650,13000001482,9,Podría mejorar el empaque
 1484,502232,13000001483,6,Muy conforme con la calidad
 1485,525990,13000001484,8,Muy conforme con la calidad
-1486,1169510,13000001485,8,
+1486,1169510,13000001485,8,No Comment
 1487,810913,13000001486,7,Todo perfecto
 1488,647664,13000001487,7,Muy conforme con la calidad
 1489,402383,13000001488,7,Tardó un poco más de lo esperado
@@ -1495,11 +1495,11 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1494,552303,13000001493,9,Muy conforme con la calidad
 1495,1030982,13000001494,10,Atención muy buena
 1496,1252721,13000001495,9,Tardó un poco más de lo esperado
-1497,444052,13000001496,6,
-1498,1054630,13000001497,9,
+1497,444052,13000001496,6,No Comment
+1498,1054630,13000001497,9,No Comment
 1499,414082,13000001498,8,Atención muy buena
 1500,786682,13000001499,10,Podría mejorar el empaque
-1501,1019698,13000001500,10,
+1501,1019698,13000001500,10,No Comment
 1502,1166790,13000001501,8,Entrega rápida y producto excelente
 1503,854851,13000001502,9,Atención muy buena
 1504,979379,13000001503,7,Atención muy buena
@@ -1517,10 +1517,10 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1516,686971,13000001515,10,Entrega rápida y producto excelente
 1517,943061,13000001516,0,Atención muy buena
 1518,526306,13000001517,2,Entrega rápida y producto excelente
-1519,1085763,13000001518,10,
+1519,1085763,13000001518,10,No Comment
 1520,871219,13000001519,2,Entrega rápida y producto excelente
 1521,531203,13000001520,8,Entrega rápida y producto excelente
-1522,816824,13000001521,7,
+1522,816824,13000001521,7,No Comment
 1523,727509,13000001522,8,Tardó un poco más de lo esperado
 1524,857595,13000001523,8,Podría mejorar el empaque
 1525,544616,13000001524,10,Tardó un poco más de lo esperado
@@ -1534,13 +1534,13 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1533,1212223,13000001532,10,Atención muy buena
 1534,1019365,13000001533,8,Podría mejorar el empaque
 1535,862246,13000001534,1,Todo perfecto
-1536,427641,13000001535,5,
+1536,427641,13000001535,5,No Comment
 1537,1255496,13000001536,10,Tardó un poco más de lo esperado
 1538,1068908,13000001537,3,Entrega rápida y producto excelente
 1539,452090,13000001538,5,Todo perfecto
 1540,490325,13000001539,9,Atención muy buena
 1541,416536,13000001540,10,Volvería a comprar
-1542,701731,13000001541,1,
+1542,701731,13000001541,1,No Comment
 1543,1015932,13000001542,3,Muy conforme con la calidad
 1544,503298,13000001543,3,Todo perfecto
 1545,822004,13000001544,9,Todo perfecto
@@ -1549,15 +1549,15 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1548,374481,13000001547,9,Tardó un poco más de lo esperado
 1549,730824,13000001548,8,Entrega rápida y producto excelente
 1550,864168,13000001549,6,Podría mejorar el empaque
-1551,506959,13000001550,9,
+1551,506959,13000001550,9,No Comment
 1552,1237473,13000001551,8,Muy conforme con la calidad
 1553,1003249,13000001552,9,Podría mejorar el empaque
 1554,1010965,13000001553,9,Volvería a comprar
-1555,1133436,13000001554,9,
+1555,1133436,13000001554,9,No Comment
 1556,1077816,13000001555,7,Podría mejorar el empaque
-1557,1240477,13000001556,9,
+1557,1240477,13000001556,9,No Comment
 1558,672306,13000001557,6,Volvería a comprar
-1559,1001878,13000001558,6,
+1559,1001878,13000001558,6,No Comment
 1560,671683,13000001559,7,Tardó un poco más de lo esperado
 1561,1187564,13000001560,8,Todo perfecto
 1562,848829,13000001561,10,Podría mejorar el empaque
@@ -1565,7 +1565,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1564,941203,13000001563,8,Atención muy buena
 1565,890533,13000001564,10,Volvería a comprar
 1566,707381,13000001565,10,Volvería a comprar
-1567,941866,13000001566,10,
+1567,941866,13000001566,10,No Comment
 1568,1065993,13000001567,9,Tardó un poco más de lo esperado
 1569,844984,13000001568,7,Volvería a comprar
 1570,717534,13000001569,8,Volvería a comprar
@@ -1582,7 +1582,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1581,1245355,13000001580,8,Podría mejorar el empaque
 1582,1062147,13000001581,5,Muy conforme con la calidad
 1583,1232261,13000001582,5,Podría mejorar el empaque
-1584,1261663,13000001583,7,
+1584,1261663,13000001583,7,No Comment
 1585,1179992,13000001584,3,Podría mejorar el empaque
 1586,1219822,13000001585,7,Atención muy buena
 1587,657320,13000001586,5,Atención muy buena
@@ -1590,17 +1590,17 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1589,494191,13000001588,7,Volvería a comprar
 1590,639262,13000001589,9,Muy conforme con la calidad
 1591,881958,13000001590,7,Entrega rápida y producto excelente
-1592,586832,13000001591,6,
+1592,586832,13000001591,6,No Comment
 1593,912602,13000001592,5,Atención muy buena
 1594,694421,13000001593,8,Todo perfecto
 1595,928271,13000001594,9,Muy conforme con la calidad
-1596,959798,13000001595,10,
+1596,959798,13000001595,10,No Comment
 1597,760207,13000001596,9,Todo perfecto
 1598,761684,13000001597,10,Entrega rápida y producto excelente
 1599,922061,13000001598,10,Tardó un poco más de lo esperado
 1600,1149760,13000001599,10,Podría mejorar el empaque
 1601,430777,13000001600,10,Podría mejorar el empaque
-1602,589686,13000001601,9,
+1602,589686,13000001601,9,No Comment
 1603,1195857,13000001602,10,Volvería a comprar
 1604,385008,13000001603,8,Muy conforme con la calidad
 1605,548625,13000001604,10,Tardó un poco más de lo esperado
@@ -1621,7 +1621,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1620,795549,13000001619,9,Atención muy buena
 1621,1142233,13000001620,8,Todo perfecto
 1622,655524,13000001621,3,Tardó un poco más de lo esperado
-1623,917507,13000001622,6,
+1623,917507,13000001622,6,No Comment
 1624,664596,13000001623,10,Volvería a comprar
 1625,1004343,13000001624,8,Todo perfecto
 1626,1260848,13000001625,9,Entrega rápida y producto excelente
@@ -1639,10 +1639,10 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1638,592889,13000001637,6,Todo perfecto
 1639,1218539,13000001638,9,Todo perfecto
 1640,958274,13000001639,6,Atención muy buena
-1641,968183,13000001640,9,
+1641,968183,13000001640,9,No Comment
 1642,887310,13000001641,10,Muy conforme con la calidad
 1643,826317,13000001642,7,Entrega rápida y producto excelente
-1644,1021013,13000001643,10,
+1644,1021013,13000001643,10,No Comment
 1645,411207,13000001644,9,Todo perfecto
 1646,477582,13000001645,8,Muy conforme con la calidad
 1647,705006,13000001646,8,Atención muy buena
@@ -1666,15 +1666,15 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1665,753485,13000001664,10,Atención muy buena
 1666,818658,13000001665,4,Muy conforme con la calidad
 1667,761879,13000001666,8,Todo perfecto
-1668,960179,13000001667,4,
+1668,960179,13000001667,4,No Comment
 1669,614788,13000001668,8,Tardó un poco más de lo esperado
 1670,945045,13000001669,9,Tardó un poco más de lo esperado
-1671,966930,13000001670,7,
+1671,966930,13000001670,7,No Comment
 1672,1155249,13000001671,8,Tardó un poco más de lo esperado
 1673,399424,13000001672,9,Muy conforme con la calidad
 1674,521171,13000001673,6,Tardó un poco más de lo esperado
 1675,1027251,13000001674,8,Entrega rápida y producto excelente
-1676,434361,13000001675,8,
+1676,434361,13000001675,8,No Comment
 1677,1186987,13000001676,7,Todo perfecto
 1678,437983,13000001677,9,Podría mejorar el empaque
 1679,833013,13000001678,9,Atención muy buena
@@ -1686,8 +1686,8 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1685,1190668,13000001684,9,Podría mejorar el empaque
 1686,1229166,13000001685,8,Entrega rápida y producto excelente
 1687,732022,13000001686,10,Volvería a comprar
-1688,904070,13000001687,1,
-1689,471729,13000001688,8,
+1688,904070,13000001687,1,No Comment
+1689,471729,13000001688,8,No Comment
 1690,1036890,13000001689,6,Podría mejorar el empaque
 1691,373575,13000001690,7,Muy conforme con la calidad
 1692,1269549,13000001691,6,Tardó un poco más de lo esperado
@@ -1697,7 +1697,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1696,1200017,13000001695,8,Muy conforme con la calidad
 1697,460902,13000001696,7,Muy conforme con la calidad
 1698,1149582,13000001697,3,Volvería a comprar
-1699,451511,13000001698,8,
+1699,451511,13000001698,8,No Comment
 1700,537632,13000001699,8,Todo perfecto
 1701,831271,13000001700,9,Todo perfecto
 1702,747618,13000001701,8,Muy conforme con la calidad
@@ -1717,14 +1717,14 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1716,478631,13000001715,6,Volvería a comprar
 1717,649966,13000001716,7,Atención muy buena
 1718,520742,13000001717,7,Volvería a comprar
-1719,708458,13000001718,9,
+1719,708458,13000001718,9,No Comment
 1720,1192557,13000001719,3,Volvería a comprar
 1721,1231695,13000001720,8,Podría mejorar el empaque
 1722,870653,13000001721,4,Todo perfecto
 1723,406975,13000001722,0,Todo perfecto
 1724,990330,13000001723,9,Todo perfecto
 1725,817609,13000001724,8,Podría mejorar el empaque
-1726,828286,13000001725,7,
+1726,828286,13000001725,7,No Comment
 1727,387432,13000001726,9,Podría mejorar el empaque
 1728,1036320,13000001727,7,Podría mejorar el empaque
 1729,424666,13000001728,9,Todo perfecto
@@ -1737,21 +1737,21 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1736,709034,13000001735,9,Volvería a comprar
 1737,1241208,13000001736,4,Atención muy buena
 1738,1089788,13000001737,2,Muy conforme con la calidad
-1739,1195070,13000001738,5,
+1739,1195070,13000001738,5,No Comment
 1740,496404,13000001739,3,Tardó un poco más de lo esperado
-1741,469771,13000001740,7,
+1741,469771,13000001740,7,No Comment
 1742,993945,13000001741,10,Todo perfecto
 1743,1100520,13000001742,0,Volvería a comprar
 1744,922401,13000001743,7,Volvería a comprar
 1745,826243,13000001744,7,Tardó un poco más de lo esperado
-1746,981057,13000001745,8,
+1746,981057,13000001745,8,No Comment
 1747,679342,13000001746,2,Muy conforme con la calidad
 1748,585183,13000001747,6,Atención muy buena
 1749,739629,13000001748,2,Tardó un poco más de lo esperado
 1750,517987,13000001749,8,Todo perfecto
 1751,1238234,13000001750,8,Tardó un poco más de lo esperado
 1752,1020967,13000001751,6,Todo perfecto
-1753,761489,13000001752,10,
+1753,761489,13000001752,10,No Comment
 1754,457758,13000001753,10,Podría mejorar el empaque
 1755,759700,13000001754,8,Atención muy buena
 1756,1252776,13000001755,8,Volvería a comprar
@@ -1771,7 +1771,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1770,999298,13000001769,8,Entrega rápida y producto excelente
 1771,747733,13000001770,6,Podría mejorar el empaque
 1772,379879,13000001771,9,Podría mejorar el empaque
-1773,591320,13000001772,3,
+1773,591320,13000001772,3,No Comment
 1774,486568,13000001773,1,Atención muy buena
 1775,854901,13000001774,10,Todo perfecto
 1776,621853,13000001775,10,Podría mejorar el empaque
@@ -1799,22 +1799,22 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1798,589056,13000001797,6,Todo perfecto
 1799,965627,13000001798,8,Volvería a comprar
 1800,505951,13000001799,8,Entrega rápida y producto excelente
-1801,478421,13000001800,6,
+1801,478421,13000001800,6,No Comment
 1802,1044676,13000001801,6,Todo perfecto
 1803,580159,13000001802,10,Todo perfecto
 1804,1240013,13000001803,4,Atención muy buena
-1805,666740,13000001804,3,
+1805,666740,13000001804,3,No Comment
 1806,1187378,13000001805,8,Tardó un poco más de lo esperado
-1807,1019670,13000001806,8,
+1807,1019670,13000001806,8,No Comment
 1808,813401,13000001807,3,Volvería a comprar
 1809,1008308,13000001808,6,Entrega rápida y producto excelente
 1810,1257887,13000001809,8,Podría mejorar el empaque
-1811,712149,13000001810,2,
+1811,712149,13000001810,2,No Comment
 1812,863466,13000001811,10,Atención muy buena
 1813,824538,13000001812,8,Todo perfecto
 1814,738027,13000001813,3,Todo perfecto
 1815,1219846,13000001814,6,Tardó un poco más de lo esperado
-1816,1214022,13000001815,8,
+1816,1214022,13000001815,8,No Comment
 1817,656193,13000001816,4,Tardó un poco más de lo esperado
 1818,1091009,13000001817,8,Tardó un poco más de lo esperado
 1819,1142705,13000001818,3,Podría mejorar el empaque
@@ -1838,13 +1838,13 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1837,1022284,13000001836,8,Entrega rápida y producto excelente
 1838,959428,13000001837,10,Muy conforme con la calidad
 1839,787107,13000001838,9,Tardó un poco más de lo esperado
-1840,541845,13000001839,6,
+1840,541845,13000001839,6,No Comment
 1841,1017965,13000001840,1,Atención muy buena
 1842,916396,13000001841,9,Entrega rápida y producto excelente
 1843,548777,13000001842,10,Podría mejorar el empaque
 1844,1111546,13000001843,6,Podría mejorar el empaque
-1845,967620,13000001844,3,
-1846,1188838,13000001845,9,
+1845,967620,13000001844,3,No Comment
+1846,1188838,13000001845,9,No Comment
 1847,523452,13000001846,3,Volvería a comprar
 1848,806988,13000001847,2,Entrega rápida y producto excelente
 1849,1087320,13000001848,5,Atención muy buena
@@ -1853,18 +1853,18 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1852,734218,13000001851,7,Muy conforme con la calidad
 1853,444753,13000001852,7,Volvería a comprar
 1854,696373,13000001853,8,Entrega rápida y producto excelente
-1855,765368,13000001854,8,
+1855,765368,13000001854,8,No Comment
 1856,1182269,13000001855,9,Entrega rápida y producto excelente
-1857,1139677,13000001856,2,
+1857,1139677,13000001856,2,No Comment
 1858,1037146,13000001857,8,Volvería a comprar
 1859,1045710,13000001858,10,Todo perfecto
 1860,1002825,13000001859,8,Entrega rápida y producto excelente
 1861,997721,13000001860,8,Volvería a comprar
 1862,1074475,13000001861,8,Muy conforme con la calidad
-1863,532179,13000001862,8,
+1863,532179,13000001862,8,No Comment
 1864,468609,13000001863,5,Muy conforme con la calidad
 1865,944423,13000001864,5,Podría mejorar el empaque
-1866,815061,13000001865,8,
+1866,815061,13000001865,8,No Comment
 1867,1241490,13000001866,6,Tardó un poco más de lo esperado
 1868,1129447,13000001867,8,Todo perfecto
 1869,856399,13000001868,8,Tardó un poco más de lo esperado
@@ -1885,11 +1885,11 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1884,799281,13000001883,2,Todo perfecto
 1885,570348,13000001884,6,Volvería a comprar
 1886,1021957,13000001885,10,Atención muy buena
-1887,977033,13000001886,1,
+1887,977033,13000001886,1,No Comment
 1888,1113630,13000001887,7,Atención muy buena
 1889,551684,13000001888,7,Todo perfecto
 1890,1281672,13000001889,3,Podría mejorar el empaque
-1891,475156,13000001890,9,
+1891,475156,13000001890,9,No Comment
 1892,1104461,13000001891,4,Volvería a comprar
 1893,915725,13000001892,10,Podría mejorar el empaque
 1894,1103117,13000001893,6,Entrega rápida y producto excelente
@@ -1906,7 +1906,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1905,540289,13000001904,9,Muy conforme con la calidad
 1906,1228383,13000001905,9,Atención muy buena
 1907,555857,13000001906,9,Tardó un poco más de lo esperado
-1908,1181202,13000001907,5,
+1908,1181202,13000001907,5,No Comment
 1909,1053326,13000001908,10,Podría mejorar el empaque
 1910,871725,13000001909,10,Volvería a comprar
 1911,479342,13000001910,8,Podría mejorar el empaque
@@ -1921,7 +1921,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1920,1016744,13000001919,8,Volvería a comprar
 1921,618608,13000001920,5,Muy conforme con la calidad
 1922,892237,13000001921,10,Atención muy buena
-1923,890063,13000001922,6,
+1923,890063,13000001922,6,No Comment
 1924,619757,13000001923,10,Tardó un poco más de lo esperado
 1925,645279,13000001924,10,Atención muy buena
 1926,1146445,13000001925,10,Entrega rápida y producto excelente
@@ -1947,8 +1947,8 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1946,490316,13000001945,4,Podría mejorar el empaque
 1947,921593,13000001946,9,Podría mejorar el empaque
 1948,795580,13000001947,10,Atención muy buena
-1949,1254209,13000001948,9,
-1950,456603,13000001949,6,
+1949,1254209,13000001948,9,No Comment
+1950,456603,13000001949,6,No Comment
 1951,599185,13000001950,0,Entrega rápida y producto excelente
 1952,1043212,13000001951,9,Atención muy buena
 1953,1163112,13000001952,5,Muy conforme con la calidad
@@ -1958,10 +1958,10 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1957,604362,13000001956,7,Muy conforme con la calidad
 1958,1054786,13000001957,6,Atención muy buena
 1959,497973,13000001958,9,Atención muy buena
-1960,604799,13000001959,9,
+1960,604799,13000001959,9,No Comment
 1961,1054788,13000001960,2,Atención muy buena
 1962,997076,13000001961,10,Volvería a comprar
-1963,861212,13000001962,7,
+1963,861212,13000001962,7,No Comment
 1964,1230175,13000001963,8,Podría mejorar el empaque
 1965,384960,13000001964,9,Volvería a comprar
 1966,591726,13000001965,7,Volvería a comprar
@@ -1972,21 +1972,21 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1971,971846,13000001970,7,Volvería a comprar
 1972,978845,13000001971,10,Atención muy buena
 1973,551096,13000001972,7,Muy conforme con la calidad
-1974,848855,13000001973,3,
+1974,848855,13000001973,3,No Comment
 1975,1255308,13000001974,3,Entrega rápida y producto excelente
 1976,862161,13000001975,2,Entrega rápida y producto excelente
 1977,1112053,13000001976,7,Tardó un poco más de lo esperado
 1978,1173328,13000001977,8,Todo perfecto
-1979,841006,13000001978,8,
+1979,841006,13000001978,8,No Comment
 1980,505029,13000001979,0,Volvería a comprar
 1981,698896,13000001980,0,Tardó un poco más de lo esperado
 1982,724315,13000001981,3,Entrega rápida y producto excelente
 1983,1074292,13000001982,8,Entrega rápida y producto excelente
 1984,883059,13000001983,9,Todo perfecto
-1985,1250319,13000001984,10,
-1986,532018,13000001985,9,
+1985,1250319,13000001984,10,No Comment
+1986,532018,13000001985,9,No Comment
 1987,1269363,13000001986,9,Volvería a comprar
-1988,677544,13000001987,10,
+1988,677544,13000001987,10,No Comment
 1989,494464,13000001988,0,Tardó un poco más de lo esperado
 1990,1220137,13000001989,8,Podría mejorar el empaque
 1991,750009,13000001990,8,Podría mejorar el empaque
@@ -1998,19 +1998,19 @@ nps_sk,responded_at_sk,nps_id,score,comment
 1997,760896,13000001996,8,Podría mejorar el empaque
 1998,928739,13000001997,8,Volvería a comprar
 1999,846965,13000001998,8,Podría mejorar el empaque
-2000,1025294,13000001999,0,
-2001,932400,13000002000,5,
+2000,1025294,13000001999,0,No Comment
+2001,932400,13000002000,5,No Comment
 2002,684224,13000002001,4,Todo perfecto
 2003,1033063,13000002002,8,Atención muy buena
 2004,860256,13000002003,10,Podría mejorar el empaque
 2005,793585,13000002004,8,Podría mejorar el empaque
-2006,770314,13000002005,7,
-2007,887341,13000002006,9,
+2006,770314,13000002005,7,No Comment
+2007,887341,13000002006,9,No Comment
 2008,683608,13000002007,3,Entrega rápida y producto excelente
 2009,589611,13000002008,5,Muy conforme con la calidad
 2010,785095,13000002009,8,Volvería a comprar
 2011,762482,13000002010,9,Todo perfecto
-2012,494565,13000002011,6,
+2012,494565,13000002011,6,No Comment
 2013,671608,13000002012,8,Muy conforme con la calidad
 2014,1154403,13000002013,8,Muy conforme con la calidad
 2015,1131640,13000002014,7,Volvería a comprar
@@ -2032,7 +2032,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2031,793896,13000002030,10,Muy conforme con la calidad
 2032,446638,13000002031,8,Entrega rápida y producto excelente
 2033,1044316,13000002032,9,Entrega rápida y producto excelente
-2034,685142,13000002033,8,
+2034,685142,13000002033,8,No Comment
 2035,1114835,13000002034,7,Entrega rápida y producto excelente
 2036,1162410,13000002035,9,Muy conforme con la calidad
 2037,889348,13000002036,6,Atención muy buena
@@ -2043,7 +2043,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2042,833035,13000002041,9,Podría mejorar el empaque
 2043,918419,13000002042,6,Atención muy buena
 2044,1264744,13000002043,7,Todo perfecto
-2045,470526,13000002044,9,
+2045,470526,13000002044,9,No Comment
 2046,1125511,13000002045,8,Entrega rápida y producto excelente
 2047,565754,13000002046,8,Todo perfecto
 2048,1046440,13000002047,5,Todo perfecto
@@ -2062,7 +2062,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2061,847191,13000002060,10,Atención muy buena
 2062,1226578,13000002061,2,Volvería a comprar
 2063,809599,13000002062,9,Entrega rápida y producto excelente
-2064,679820,13000002063,7,
+2064,679820,13000002063,7,No Comment
 2065,482704,13000002064,10,Muy conforme con la calidad
 2066,1068112,13000002065,8,Entrega rápida y producto excelente
 2067,1057435,13000002066,7,Muy conforme con la calidad
@@ -2076,14 +2076,14 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2075,1015640,13000002074,6,Muy conforme con la calidad
 2076,1063892,13000002075,7,Volvería a comprar
 2077,809152,13000002076,9,Todo perfecto
-2078,492696,13000002077,4,
+2078,492696,13000002077,4,No Comment
 2079,604652,13000002078,8,Muy conforme con la calidad
 2080,638417,13000002079,7,Muy conforme con la calidad
 2081,792257,13000002080,6,Podría mejorar el empaque
-2082,679074,13000002081,2,
+2082,679074,13000002081,2,No Comment
 2083,575236,13000002082,10,Podría mejorar el empaque
 2084,813140,13000002083,10,Atención muy buena
-2085,682694,13000002084,10,
+2085,682694,13000002084,10,No Comment
 2086,1034353,13000002085,8,Todo perfecto
 2087,1179504,13000002086,10,Podría mejorar el empaque
 2088,858122,13000002087,10,Volvería a comprar
@@ -2105,22 +2105,22 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2104,653755,13000002103,8,Tardó un poco más de lo esperado
 2105,1277645,13000002104,9,Volvería a comprar
 2106,1042859,13000002105,5,Atención muy buena
-2107,415910,13000002106,8,
-2108,1229759,13000002107,7,
-2109,954730,13000002108,10,
+2107,415910,13000002106,8,No Comment
+2108,1229759,13000002107,7,No Comment
+2109,954730,13000002108,10,No Comment
 2110,733691,13000002109,6,Muy conforme con la calidad
-2111,856502,13000002110,8,
+2111,856502,13000002110,8,No Comment
 2112,1286274,13000002111,8,Tardó un poco más de lo esperado
 2113,1100237,13000002112,8,Entrega rápida y producto excelente
 2114,845794,13000002113,9,Atención muy buena
-2115,957262,13000002114,10,
+2115,957262,13000002114,10,No Comment
 2116,398062,13000002115,6,Atención muy buena
 2117,730846,13000002116,7,Todo perfecto
 2118,1096418,13000002117,8,Muy conforme con la calidad
 2119,1115175,13000002118,8,Volvería a comprar
 2120,511152,13000002119,6,Muy conforme con la calidad
-2121,588290,13000002120,0,
-2122,1259804,13000002121,6,
+2121,588290,13000002120,0,No Comment
+2122,1259804,13000002121,6,No Comment
 2123,420035,13000002122,9,Entrega rápida y producto excelente
 2124,988958,13000002123,7,Tardó un poco más de lo esperado
 2125,1000390,13000002124,10,Entrega rápida y producto excelente
@@ -2141,8 +2141,8 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2140,745486,13000002139,9,Podría mejorar el empaque
 2141,1224650,13000002140,7,Volvería a comprar
 2142,970442,13000002141,10,Podría mejorar el empaque
-2143,915628,13000002142,2,
-2144,833357,13000002143,6,
+2143,915628,13000002142,2,No Comment
+2144,833357,13000002143,6,No Comment
 2145,1050529,13000002144,9,Tardó un poco más de lo esperado
 2146,1101826,13000002145,9,Atención muy buena
 2147,668923,13000002146,9,Muy conforme con la calidad
@@ -2167,7 +2167,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2166,956146,13000002165,10,Podría mejorar el empaque
 2167,1261516,13000002166,10,Todo perfecto
 2168,953271,13000002167,7,Todo perfecto
-2169,915998,13000002168,10,
+2169,915998,13000002168,10,No Comment
 2170,974167,13000002169,9,Volvería a comprar
 2171,1017077,13000002170,7,Podría mejorar el empaque
 2172,509351,13000002171,7,Atención muy buena
@@ -2176,15 +2176,15 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2175,964200,13000002174,7,Atención muy buena
 2176,1060036,13000002175,6,Atención muy buena
 2177,776779,13000002176,8,Todo perfecto
-2178,1082297,13000002177,7,
+2178,1082297,13000002177,7,No Comment
 2179,716231,13000002178,1,Podría mejorar el empaque
 2180,1107147,13000002179,8,Podría mejorar el empaque
 2181,635734,13000002180,8,Entrega rápida y producto excelente
-2182,1067210,13000002181,4,
+2182,1067210,13000002181,4,No Comment
 2183,859327,13000002182,10,Entrega rápida y producto excelente
 2184,407509,13000002183,7,Podría mejorar el empaque
-2185,519472,13000002184,10,
-2186,384226,13000002185,8,
+2185,519472,13000002184,10,No Comment
+2186,384226,13000002185,8,No Comment
 2187,654183,13000002186,10,Tardó un poco más de lo esperado
 2188,1002304,13000002187,7,Todo perfecto
 2189,474231,13000002188,3,Entrega rápida y producto excelente
@@ -2196,13 +2196,13 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2195,962818,13000002194,8,Muy conforme con la calidad
 2196,1047480,13000002195,10,Entrega rápida y producto excelente
 2197,502365,13000002196,10,Atención muy buena
-2198,1258340,13000002197,7,
-2199,945907,13000002198,7,
+2198,1258340,13000002197,7,No Comment
+2199,945907,13000002198,7,No Comment
 2200,714859,13000002199,8,Podría mejorar el empaque
-2201,604936,13000002200,10,
+2201,604936,13000002200,10,No Comment
 2202,468984,13000002201,10,Tardó un poco más de lo esperado
 2203,622980,13000002202,8,Atención muy buena
-2204,910925,13000002203,6,
+2204,910925,13000002203,6,No Comment
 2205,679090,13000002204,9,Todo perfecto
 2206,891788,13000002205,1,Muy conforme con la calidad
 2207,759237,13000002206,10,Tardó un poco más de lo esperado
@@ -2227,7 +2227,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2226,1130965,13000002225,8,Podría mejorar el empaque
 2227,434082,13000002226,10,Entrega rápida y producto excelente
 2228,1142339,13000002227,9,Entrega rápida y producto excelente
-2229,1170636,13000002228,5,
+2229,1170636,13000002228,5,No Comment
 2230,1196496,13000002229,8,Atención muy buena
 2231,671294,13000002230,10,Volvería a comprar
 2232,665345,13000002231,4,Entrega rápida y producto excelente
@@ -2239,10 +2239,10 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2238,461906,13000002237,8,Podría mejorar el empaque
 2239,638377,13000002238,5,Tardó un poco más de lo esperado
 2240,535308,13000002239,9,Muy conforme con la calidad
-2241,392393,13000002240,9,
+2241,392393,13000002240,9,No Comment
 2242,523000,13000002241,9,Podría mejorar el empaque
 2243,1024996,13000002242,7,Volvería a comprar
-2244,606033,13000002243,8,
+2244,606033,13000002243,8,No Comment
 2245,605159,13000002244,5,Podría mejorar el empaque
 2246,469420,13000002245,8,Muy conforme con la calidad
 2247,1061967,13000002246,7,Volvería a comprar
@@ -2271,12 +2271,12 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2270,1094302,13000002269,10,Volvería a comprar
 2271,1214470,13000002270,7,Todo perfecto
 2272,555132,13000002271,6,Todo perfecto
-2273,941663,13000002272,10,
+2273,941663,13000002272,10,No Comment
 2274,1260393,13000002273,8,Atención muy buena
-2275,565720,13000002274,8,
+2275,565720,13000002274,8,No Comment
 2276,737039,13000002275,7,Atención muy buena
-2277,460543,13000002276,4,
-2278,1222725,13000002277,10,
+2277,460543,13000002276,4,No Comment
+2278,1222725,13000002277,10,No Comment
 2279,750443,13000002278,2,Entrega rápida y producto excelente
 2280,656623,13000002279,9,Entrega rápida y producto excelente
 2281,547940,13000002280,8,Muy conforme con la calidad
@@ -2294,16 +2294,16 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2293,1093096,13000002292,5,Podría mejorar el empaque
 2294,1150166,13000002293,9,Todo perfecto
 2295,895557,13000002294,7,Todo perfecto
-2296,492422,13000002295,10,
-2297,992465,13000002296,9,
+2296,492422,13000002295,10,No Comment
+2297,992465,13000002296,9,No Comment
 2298,1072975,13000002297,3,Atención muy buena
 2299,512724,13000002298,10,Podría mejorar el empaque
-2300,397728,13000002299,8,
+2300,397728,13000002299,8,No Comment
 2301,411760,13000002300,2,Tardó un poco más de lo esperado
 2302,400053,13000002301,8,Atención muy buena
 2303,995938,13000002302,10,Atención muy buena
 2304,843817,13000002303,9,Atención muy buena
-2305,797855,13000002304,10,
+2305,797855,13000002304,10,No Comment
 2306,938836,13000002305,8,Podría mejorar el empaque
 2307,540362,13000002306,9,Muy conforme con la calidad
 2308,1155700,13000002307,7,Tardó un poco más de lo esperado
@@ -2312,14 +2312,14 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2311,645242,13000002310,10,Muy conforme con la calidad
 2312,869408,13000002311,9,Podría mejorar el empaque
 2313,844412,13000002312,7,Todo perfecto
-2314,852978,13000002313,9,
+2314,852978,13000002313,9,No Comment
 2315,367776,13000002314,7,Tardó un poco más de lo esperado
 2316,629227,13000002315,6,Podría mejorar el empaque
 2317,1205309,13000002316,9,Tardó un poco más de lo esperado
 2318,945647,13000002317,10,Atención muy buena
 2319,453972,13000002318,5,Muy conforme con la calidad
 2320,1111301,13000002319,8,Todo perfecto
-2321,1193858,13000002320,7,
+2321,1193858,13000002320,7,No Comment
 2322,634814,13000002321,7,Podría mejorar el empaque
 2323,495077,13000002322,10,Todo perfecto
 2324,811229,13000002323,9,Muy conforme con la calidad
@@ -2330,14 +2330,14 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2329,522598,13000002328,8,Muy conforme con la calidad
 2330,1253715,13000002329,9,Atención muy buena
 2331,762693,13000002330,10,Atención muy buena
-2332,1201419,13000002331,10,
+2332,1201419,13000002331,10,No Comment
 2333,1105701,13000002332,8,Volvería a comprar
-2334,731101,13000002333,6,
+2334,731101,13000002333,6,No Comment
 2335,1139972,13000002334,8,Muy conforme con la calidad
 2336,1039641,13000002335,8,Atención muy buena
 2337,1115688,13000002336,8,Podría mejorar el empaque
 2338,1102405,13000002337,8,Volvería a comprar
-2339,978838,13000002338,9,
+2339,978838,13000002338,9,No Comment
 2340,1092440,13000002339,6,Tardó un poco más de lo esperado
 2341,505894,13000002340,7,Muy conforme con la calidad
 2342,1212878,13000002341,8,Tardó un poco más de lo esperado
@@ -2351,7 +2351,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2350,758235,13000002349,8,Muy conforme con la calidad
 2351,407519,13000002350,9,Podría mejorar el empaque
 2352,726520,13000002351,10,Tardó un poco más de lo esperado
-2353,1199443,13000002352,8,
+2353,1199443,13000002352,8,No Comment
 2354,588462,13000002353,10,Tardó un poco más de lo esperado
 2355,1094470,13000002354,9,Tardó un poco más de lo esperado
 2356,1130048,13000002355,2,Volvería a comprar
@@ -2361,13 +2361,13 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2360,408717,13000002359,5,Atención muy buena
 2361,1063115,13000002360,6,Tardó un poco más de lo esperado
 2362,1274502,13000002361,1,Entrega rápida y producto excelente
-2363,484379,13000002362,9,
+2363,484379,13000002362,9,No Comment
 2364,441481,13000002363,6,Atención muy buena
 2365,476158,13000002364,6,Muy conforme con la calidad
 2366,971675,13000002365,4,Entrega rápida y producto excelente
-2367,892807,13000002366,4,
+2367,892807,13000002366,4,No Comment
 2368,970532,13000002367,6,Volvería a comprar
-2369,832229,13000002368,6,
+2369,832229,13000002368,6,No Comment
 2370,759405,13000002369,7,Todo perfecto
 2371,546091,13000002370,10,Muy conforme con la calidad
 2372,1267139,13000002371,7,Tardó un poco más de lo esperado
@@ -2376,8 +2376,8 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2375,1237626,13000002374,7,Atención muy buena
 2376,618268,13000002375,4,Muy conforme con la calidad
 2377,915318,13000002376,8,Entrega rápida y producto excelente
-2378,682320,13000002377,7,
-2379,848898,13000002378,9,
+2378,682320,13000002377,7,No Comment
+2379,848898,13000002378,9,No Comment
 2380,608540,13000002379,9,Atención muy buena
 2381,549555,13000002380,9,Tardó un poco más de lo esperado
 2382,715000,13000002381,8,Atención muy buena
@@ -2393,7 +2393,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2392,870862,13000002391,5,Volvería a comprar
 2393,389553,13000002392,7,Volvería a comprar
 2394,1124033,13000002393,8,Entrega rápida y producto excelente
-2395,515507,13000002394,9,
+2395,515507,13000002394,9,No Comment
 2396,967092,13000002395,9,Atención muy buena
 2397,404118,13000002396,9,Entrega rápida y producto excelente
 2398,453592,13000002397,8,Atención muy buena
@@ -2401,11 +2401,11 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2400,680072,13000002399,8,Muy conforme con la calidad
 2401,1247458,13000002400,8,Muy conforme con la calidad
 2402,835755,13000002401,3,Podría mejorar el empaque
-2403,391142,13000002402,7,
+2403,391142,13000002402,7,No Comment
 2404,965198,13000002403,9,Volvería a comprar
 2405,1081821,13000002404,10,Atención muy buena
 2406,1109852,13000002405,7,Todo perfecto
-2407,1012574,13000002406,9,
+2407,1012574,13000002406,9,No Comment
 2408,625574,13000002407,2,Muy conforme con la calidad
 2409,526843,13000002408,7,Tardó un poco más de lo esperado
 2410,1093972,13000002409,4,Todo perfecto
@@ -2414,17 +2414,17 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2413,714338,13000002412,7,Volvería a comprar
 2414,1101932,13000002413,9,Atención muy buena
 2415,639631,13000002414,10,Tardó un poco más de lo esperado
-2416,945608,13000002415,10,
+2416,945608,13000002415,10,No Comment
 2417,685376,13000002416,2,Entrega rápida y producto excelente
 2418,404614,13000002417,7,Entrega rápida y producto excelente
 2419,405086,13000002418,9,Atención muy buena
 2420,1190704,13000002419,9,Tardó un poco más de lo esperado
-2421,808192,13000002420,8,
+2421,808192,13000002420,8,No Comment
 2422,898945,13000002421,6,Todo perfecto
 2423,574211,13000002422,6,Muy conforme con la calidad
 2424,1225993,13000002423,9,Atención muy buena
 2425,1279701,13000002424,8,Tardó un poco más de lo esperado
-2426,913313,13000002425,4,
+2426,913313,13000002425,4,No Comment
 2427,650391,13000002426,6,Muy conforme con la calidad
 2428,1105663,13000002427,8,Podría mejorar el empaque
 2429,1143815,13000002428,8,Todo perfecto
@@ -2439,7 +2439,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2438,563221,13000002437,8,Atención muy buena
 2439,1003404,13000002438,9,Entrega rápida y producto excelente
 2440,997493,13000002439,2,Volvería a comprar
-2441,1023201,13000002440,9,
+2441,1023201,13000002440,9,No Comment
 2442,955027,13000002441,7,Muy conforme con la calidad
 2443,1154508,13000002442,5,Atención muy buena
 2444,503743,13000002443,2,Volvería a comprar
@@ -2449,7 +2449,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2448,799588,13000002447,4,Tardó un poco más de lo esperado
 2449,1153314,13000002448,8,Podría mejorar el empaque
 2450,1088287,13000002449,8,Tardó un poco más de lo esperado
-2451,888564,13000002450,7,
+2451,888564,13000002450,7,No Comment
 2452,1010106,13000002451,9,Atención muy buena
 2453,527771,13000002452,8,Volvería a comprar
 2454,449742,13000002453,10,Volvería a comprar
@@ -2459,14 +2459,14 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2458,1201464,13000002457,9,Todo perfecto
 2459,1141350,13000002458,4,Atención muy buena
 2460,509178,13000002459,1,Todo perfecto
-2461,1023212,13000002460,10,
+2461,1023212,13000002460,10,No Comment
 2462,858955,13000002461,4,Volvería a comprar
 2463,819507,13000002462,9,Entrega rápida y producto excelente
 2464,1248903,13000002463,10,Atención muy buena
 2465,1119720,13000002464,8,Volvería a comprar
 2466,945281,13000002465,8,Muy conforme con la calidad
-2467,791935,13000002466,10,
-2468,379197,13000002467,8,
+2467,791935,13000002466,10,No Comment
+2468,379197,13000002467,8,No Comment
 2469,1086696,13000002468,7,Entrega rápida y producto excelente
 2470,625295,13000002469,10,Muy conforme con la calidad
 2471,775175,13000002470,6,Tardó un poco más de lo esperado
@@ -2477,14 +2477,14 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2476,648888,13000002475,3,Todo perfecto
 2477,662091,13000002476,7,Entrega rápida y producto excelente
 2478,641359,13000002477,4,Volvería a comprar
-2479,1138051,13000002478,9,
+2479,1138051,13000002478,9,No Comment
 2480,468300,13000002479,10,Volvería a comprar
 2481,934376,13000002480,7,Todo perfecto
 2482,614311,13000002481,10,Entrega rápida y producto excelente
 2483,1090479,13000002482,10,Muy conforme con la calidad
 2484,1163085,13000002483,9,Muy conforme con la calidad
 2485,1247922,13000002484,3,Muy conforme con la calidad
-2486,1256813,13000002485,9,
+2486,1256813,13000002485,9,No Comment
 2487,376525,13000002486,9,Tardó un poco más de lo esperado
 2488,693673,13000002487,5,Atención muy buena
 2489,677209,13000002488,9,Podría mejorar el empaque
@@ -2501,7 +2501,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2500,447506,13000002499,10,Podría mejorar el empaque
 2501,1231541,13000002500,8,Todo perfecto
 2502,538623,13000002501,9,Atención muy buena
-2503,678182,13000002502,8,
+2503,678182,13000002502,8,No Comment
 2504,841599,13000002503,8,Todo perfecto
 2505,648792,13000002504,3,Atención muy buena
 2506,441786,13000002505,10,Tardó un poco más de lo esperado
@@ -2511,31 +2511,31 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2510,467157,13000002509,10,Todo perfecto
 2511,945860,13000002510,9,Tardó un poco más de lo esperado
 2512,879250,13000002511,8,Volvería a comprar
-2513,781469,13000002512,7,
+2513,781469,13000002512,7,No Comment
 2514,395332,13000002513,4,Entrega rápida y producto excelente
 2515,591773,13000002514,6,Volvería a comprar
 2516,1174669,13000002515,10,Atención muy buena
 2517,1044504,13000002516,4,Volvería a comprar
-2518,1225581,13000002517,8,
+2518,1225581,13000002517,8,No Comment
 2519,397958,13000002518,10,Tardó un poco más de lo esperado
-2520,895420,13000002519,8,
+2520,895420,13000002519,8,No Comment
 2521,1240866,13000002520,8,Podría mejorar el empaque
 2522,1150067,13000002521,6,Muy conforme con la calidad
-2523,996454,13000002522,8,
-2524,802811,13000002523,9,
+2523,996454,13000002522,8,No Comment
+2524,802811,13000002523,9,No Comment
 2525,450551,13000002524,9,Muy conforme con la calidad
 2526,758291,13000002525,7,Volvería a comprar
 2527,1250474,13000002526,10,Volvería a comprar
 2528,446526,13000002527,6,Todo perfecto
 2529,1015463,13000002528,9,Muy conforme con la calidad
-2530,627146,13000002529,10,
+2530,627146,13000002529,10,No Comment
 2531,551647,13000002530,6,Volvería a comprar
-2532,1072846,13000002531,9,
+2532,1072846,13000002531,9,No Comment
 2533,752511,13000002532,10,Muy conforme con la calidad
 2534,511109,13000002533,5,Tardó un poco más de lo esperado
 2535,754798,13000002534,7,Volvería a comprar
 2536,809826,13000002535,9,Podría mejorar el empaque
-2537,470799,13000002536,8,
+2537,470799,13000002536,8,No Comment
 2538,931628,13000002537,8,Podría mejorar el empaque
 2539,1038165,13000002538,7,Todo perfecto
 2540,1081933,13000002539,5,Volvería a comprar
@@ -2546,8 +2546,8 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2545,1060741,13000002544,4,Entrega rápida y producto excelente
 2546,762704,13000002545,9,Podría mejorar el empaque
 2547,627632,13000002546,9,Atención muy buena
-2548,825509,13000002547,1,
-2549,655542,13000002548,6,
+2548,825509,13000002547,1,No Comment
+2549,655542,13000002548,6,No Comment
 2550,768335,13000002549,9,Tardó un poco más de lo esperado
 2551,375779,13000002550,4,Todo perfecto
 2552,800770,13000002551,1,Muy conforme con la calidad
@@ -2572,7 +2572,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2571,926986,13000002570,4,Entrega rápida y producto excelente
 2572,678730,13000002571,8,Atención muy buena
 2573,795281,13000002572,10,Muy conforme con la calidad
-2574,1036064,13000002573,9,
+2574,1036064,13000002573,9,No Comment
 2575,1057862,13000002574,8,Tardó un poco más de lo esperado
 2576,924709,13000002575,7,Volvería a comprar
 2577,713467,13000002576,7,Entrega rápida y producto excelente
@@ -2589,11 +2589,11 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2588,417269,13000002587,10,Tardó un poco más de lo esperado
 2589,1003262,13000002588,6,Tardó un poco más de lo esperado
 2590,1245398,13000002589,2,Atención muy buena
-2591,922932,13000002590,10,
+2591,922932,13000002590,10,No Comment
 2592,1125463,13000002591,8,Todo perfecto
 2593,625529,13000002592,5,Atención muy buena
 2594,429288,13000002593,10,Tardó un poco más de lo esperado
-2595,704427,13000002594,10,
+2595,704427,13000002594,10,No Comment
 2596,1029134,13000002595,7,Todo perfecto
 2597,1081495,13000002596,9,Todo perfecto
 2598,479617,13000002597,9,Muy conforme con la calidad
@@ -2607,7 +2607,7 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2606,757512,13000002605,10,Muy conforme con la calidad
 2607,449400,13000002606,7,Volvería a comprar
 2608,838240,13000002607,4,Tardó un poco más de lo esperado
-2609,634755,13000002608,8,
+2609,634755,13000002608,8,No Comment
 2610,773438,13000002609,9,Muy conforme con la calidad
 2611,936808,13000002610,8,Tardó un poco más de lo esperado
 2612,621721,13000002611,7,Entrega rápida y producto excelente
@@ -2621,14 +2621,14 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2620,848658,13000002619,8,Entrega rápida y producto excelente
 2621,991340,13000002620,10,Podría mejorar el empaque
 2622,893485,13000002621,10,Tardó un poco más de lo esperado
-2623,1056133,13000002622,10,
-2624,1020449,13000002623,9,
+2623,1056133,13000002622,10,No Comment
+2624,1020449,13000002623,9,No Comment
 2625,796710,13000002624,10,Atención muy buena
 2626,574370,13000002625,8,Entrega rápida y producto excelente
 2627,952011,13000002626,10,Tardó un poco más de lo esperado
 2628,677155,13000002627,9,Podría mejorar el empaque
 2629,1048019,13000002628,9,Volvería a comprar
-2630,854745,13000002629,2,
+2630,854745,13000002629,2,No Comment
 2631,380570,13000002630,1,Volvería a comprar
 2632,877553,13000002631,4,Todo perfecto
 2633,613760,13000002632,4,Atención muy buena
@@ -2637,8 +2637,8 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2636,669140,13000002635,8,Atención muy buena
 2637,938135,13000002636,8,Volvería a comprar
 2638,443186,13000002637,9,Podría mejorar el empaque
-2639,407143,13000002638,7,
-2640,988650,13000002639,6,
+2639,407143,13000002638,7,No Comment
+2640,988650,13000002639,6,No Comment
 2641,1116213,13000002640,8,Atención muy buena
 2642,510668,13000002641,0,Todo perfecto
 2643,1228697,13000002642,6,Muy conforme con la calidad
@@ -2646,25 +2646,25 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2645,919438,13000002644,8,Todo perfecto
 2646,902868,13000002645,9,Muy conforme con la calidad
 2647,593394,13000002646,9,Atención muy buena
-2648,742218,13000002647,8,
+2648,742218,13000002647,8,No Comment
 2649,612921,13000002648,2,Entrega rápida y producto excelente
-2650,405326,13000002649,7,
+2650,405326,13000002649,7,No Comment
 2651,908080,13000002650,7,Muy conforme con la calidad
 2652,607472,13000002651,8,Entrega rápida y producto excelente
 2653,567375,13000002652,3,Tardó un poco más de lo esperado
 2654,741121,13000002653,7,Podría mejorar el empaque
 2655,997828,13000002654,0,Atención muy buena
 2656,1228131,13000002655,10,Tardó un poco más de lo esperado
-2657,620448,13000002656,5,
+2657,620448,13000002656,5,No Comment
 2658,1059761,13000002657,6,Entrega rápida y producto excelente
 2659,659095,13000002658,9,Tardó un poco más de lo esperado
 2660,1107321,13000002659,7,Todo perfecto
 2661,1236837,13000002660,8,Podría mejorar el empaque
-2662,777958,13000002661,8,
+2662,777958,13000002661,8,No Comment
 2663,953934,13000002662,5,Entrega rápida y producto excelente
-2664,1149208,13000002663,6,
+2664,1149208,13000002663,6,No Comment
 2665,395295,13000002664,8,Atención muy buena
-2666,1272063,13000002665,1,
+2666,1272063,13000002665,1,No Comment
 2667,787203,13000002666,9,Volvería a comprar
 2668,532511,13000002667,10,Tardó un poco más de lo esperado
 2669,590680,13000002668,10,Volvería a comprar
@@ -2673,13 +2673,13 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2672,1138284,13000002671,7,Muy conforme con la calidad
 2673,734976,13000002672,9,Todo perfecto
 2674,709003,13000002673,8,Volvería a comprar
-2675,1194242,13000002674,1,
+2675,1194242,13000002674,1,No Comment
 2676,899487,13000002675,8,Entrega rápida y producto excelente
 2677,1148963,13000002676,2,Podría mejorar el empaque
 2678,1005754,13000002677,10,Todo perfecto
 2679,805840,13000002678,3,Atención muy buena
 2680,526261,13000002679,7,Tardó un poco más de lo esperado
-2681,1046547,13000002680,8,
+2681,1046547,13000002680,8,No Comment
 2682,772069,13000002681,9,Muy conforme con la calidad
 2683,1220324,13000002682,9,Entrega rápida y producto excelente
 2684,848671,13000002683,8,Volvería a comprar
@@ -2689,5 +2689,5 @@ nps_sk,responded_at_sk,nps_id,score,comment
 2688,738627,13000002687,4,Entrega rápida y producto excelente
 2689,903905,13000002688,7,Podría mejorar el empaque
 2690,410986,13000002689,7,Volvería a comprar
-2691,1071820,13000002690,7,
+2691,1071820,13000002690,7,No Comment
 2692,931045,13000002691,9,Volvería a comprar

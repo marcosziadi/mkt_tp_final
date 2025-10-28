@@ -1,5 +1,7 @@
 import pandas as pd
 
+UNKNOWN_COMMENT = "No Comment"
+
 def clean_nps_response(nps_response_raw: pd.DataFrame) -> pd.DataFrame:
     '''
     DESCRIPTION
@@ -9,6 +11,8 @@ def clean_nps_response(nps_response_raw: pd.DataFrame) -> pd.DataFrame:
     try:
         nps_response_clean['responded_at'] = pd.to_datetime(nps_response_clean['responded_at']).dt.floor('min')
         nps_response_clean['responded_at_int'] = nps_response_clean['responded_at'].dt.strftime('%Y%m%d%H%M').astype(int)
+        nps_response_clean['comment'] = nps_response_clean['comment'].fillna(UNKNOWN_COMMENT)
+    
         return nps_response_clean
     except KeyError as e:
         raise RuntimeError(f"ERROR: Failed cleaning 'nps_response_raw' | Missing column: {e}") from e

@@ -1,4 +1,7 @@
 import pandas as pd
+from datetime import datetime, time
+
+DATE_UNKNOWN_OBJ = '1900-01-01'
 
 def build_dim_calendar() -> pd.DataFrame:
     """
@@ -23,4 +26,23 @@ def build_dim_calendar() -> pd.DataFrame:
         "is_weekend": date_range.dayofweek >= 5
     })
     
+    unknown_data = {
+        "time_sk": -1,
+        "datetime_id": -1,
+        "date": datetime.strptime(DATE_UNKNOWN_OBJ, "%Y-%m-%d").date(),
+        "time": time(0, 0, 0),
+        "year": -1,
+        "month": -1,
+        "month_name": "Unknown",
+        "day": -1,
+        "day_of_week": -1,
+        "day_name": "Unknown",
+        "hour": -1,
+        "minute": -1,
+        "is_weekend": False
+    }
+
+    unknown_row = pd.DataFrame([unknown_data])
+    dim_time = pd.concat([unknown_row, dim_time], ignore_index=True)
+
     return dim_time

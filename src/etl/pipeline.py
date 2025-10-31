@@ -20,24 +20,24 @@ def run_etl_pipeline():
     raw_data = extract.read_all_csv_files(RAW_PATH)
     
     # ==== STAGING ====
-    # clean_tables = {
-    #     'address': tr.clean_address(address_raw=raw_data['address']),
-    #     'channel': tr.clean_channel(channel_raw=raw_data['channel']),
-    #     'customer': tr.clean_customer(customer_raw=raw_data['customer']),
-    #     'nps_response': tr.clean_nps_response(nps_response_raw=raw_data['nps_response']),
-    #     'payment': tr.clean_payment(payment_raw=raw_data['payment']),
-    #     'product_category': tr.clean_product_category(product_category_raw=raw_data['product_category']),
-    #     'product': tr.clean_product(product_raw=raw_data['product']),
-    #     'province': tr.clean_province(province_raw=raw_data['province']),
-    #     'sales_order_item': tr.clean_sales_order_item(sales_order_item_raw=raw_data['sales_order_item']),
-    #     'sales_order': tr.clean_sales_order(sales_order_raw=raw_data['sales_order']),
-    #     # 'shipment': tr.clean_shipment(),
-    #     'store': tr.clean_store(store_raw=raw_data['store']),
-    #     'web_session': tr.clean_web_session(web_session_raw=raw_data['web_session'])
-    # }
+    clean_tables = {
+        'address': tr.clean_address(address_raw=raw_data['address']),
+        'channel': tr.clean_channel(channel_raw=raw_data['channel']),
+        'customer': tr.clean_customer(customer_raw=raw_data['customer']),
+        'nps_response': tr.clean_nps_response(nps_response_raw=raw_data['nps_response']),
+        'payment': tr.clean_payment(payment_raw=raw_data['payment']),
+        'product_category': tr.clean_product_category(product_category_raw=raw_data['product_category']),
+        'product': tr.clean_product(product_raw=raw_data['product']),
+        'province': tr.clean_province(province_raw=raw_data['province']),
+        'sales_order_item': tr.clean_sales_order_item(sales_order_item_raw=raw_data['sales_order_item']),
+        'sales_order': tr.clean_sales_order(sales_order_raw=raw_data['sales_order']),
+        # 'shipment': tr.clean_shipment(),
+        'store': tr.clean_store(store_raw=raw_data['store']),
+        'web_session': tr.clean_web_session(web_session_raw=raw_data['web_session'])
+    }
 
-    # for table in clean_tables:
-    #     load.save_dataframe(STAGING_PATH, clean_tables[table], f"clean_{table}")
+    for table in clean_tables:
+        load.save_dataframe(STAGING_PATH, clean_tables[table], f"clean_{table}")
 
     # ==== TRANSFORM ====
     clean_data = extract.read_all_csv_files(STAGING_PATH)

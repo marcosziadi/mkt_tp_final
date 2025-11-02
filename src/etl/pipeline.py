@@ -31,7 +31,7 @@ def run_etl_pipeline():
         'province': tr.clean_province(province_raw=raw_data['province']),
         'sales_order_item': tr.clean_sales_order_item(sales_order_item_raw=raw_data['sales_order_item']),
         'sales_order': tr.clean_sales_order(sales_order_raw=raw_data['sales_order']),
-        # 'shipment': tr.clean_shipment(),
+        'shipment': tr.clean_shipment(shipment_raw=raw_data['shipment']),
         'store': tr.clean_store(store_raw=raw_data['store']),
         'web_session': tr.clean_web_session(web_session_raw=raw_data['web_session'])
     }
@@ -80,7 +80,14 @@ def run_etl_pipeline():
                                          dim_customer=dim_tables['customer'],
                                          dim_address=dim_tables['address'],
                                          dim_store=dim_tables['store'],
-                                         dim_calendar=dim_tables['calendar'])}
+                                         dim_calendar=dim_tables['calendar']),
+        'shipment': tr.build_fact_shipment(shipment_clean=clean_data['clean_shipment'],
+                                           sales_order_clean=clean_data['clean_sales_order'],
+                                           dim_channel=dim_tables['channel'],
+                                           dim_customer=dim_tables['customer'],
+                                           dim_address=dim_tables['address'],
+                                           dim_store=dim_tables['store'],
+                                           dim_calendar=dim_tables['calendar'])}
 
     # ==== LOAD ====
     for dim in dim_tables:

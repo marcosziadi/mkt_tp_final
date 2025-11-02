@@ -9,7 +9,7 @@ def clean_address(address_raw: pd.DataFrame) -> pd.DataFrame:
 
     address_clean = address_raw.copy()
 
-    address_clean['line2'] =     address_clean['line2'].fillna(LINE2_UNKNOWN)
+    address_clean['line2'] = address_clean['line2'].fillna(LINE2_UNKNOWN)
     try:
         return address_clean
     except KeyError as e:

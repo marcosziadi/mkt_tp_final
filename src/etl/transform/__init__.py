@@ -12,8 +12,6 @@ from .transform_sales_order_item import clean_sales_order_item
 from .transform_payment import clean_payment
 from .transform_shipment import clean_shipment
 
-from .build_dimension_source import build_dim_source
-from .build_dimension_device import build_dim_device
 from .build_dimension_customer import build_dim_customer
 from .build_dimension_calendar import build_dim_calendar
 from .build_dimension_product import build_dim_product

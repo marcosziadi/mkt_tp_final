@@ -44,8 +44,6 @@ def run_etl_pipeline():
 
     dim_tables = {
         'calendar': tr.build_dim_calendar(),
-        'source': tr.build_dim_source(web_session_clean=clean_data['clean_web_session']),
-        'device': tr.build_dim_device(web_session_clean=clean_data['clean_web_session']),
         'customer': tr.build_dim_customer(customer_clean=clean_data['clean_customer']),
         'product': tr.build_dim_product(product_clean=clean_data['clean_product'],
                                         product_category_clean=clean_data['clean_product_category']),
@@ -59,8 +57,6 @@ def run_etl_pipeline():
     fact_tables = {
         'web_session': tr.build_fact_web_session(clean_web_session=clean_data['clean_web_session'],
                                                  dim_customer=dim_tables['customer'],
-                                                 dim_device=dim_tables['device'],
-                                                 dim_source=dim_tables['source'],
                                                  dim_calendar=dim_tables['calendar']),
         'nps_response': tr.build_fact_nps_response(clean_nps_response=clean_data['clean_nps_response'],
                                                    dim_customer=dim_tables['customer'],

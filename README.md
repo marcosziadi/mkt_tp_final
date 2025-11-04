@@ -22,6 +22,24 @@ El producto final incluye:
 
 ---
 
+## 🛠️ Herramientas Utilizadas
+
+* **Python 3.12+**
+* **pandas**: Para todas las transformaciones y el modelado ETL.
+* **Git / GitHub**: Control de versiones.
+* **Virtual Environment (venv)**: Aislamiento del entorno.
+* **Power BI**: Para la visualización y el dashboard final.
+
+---
+
+## 📘 Diagrama Entidad Relación (Modelo Fuente OLTP)
+
+A continuación, se presenta el modelo relacional de la base de datos fuente transaccional (OLTP):
+
+![Diagrama Entidad Relación del modelo RAW](docs/assets/DER.png)
+
+---
+
 ## 🏗️ Estructura del Repositorio
 
 ```bash

@@ -108,12 +108,12 @@ Tablas Principales del Data Warehouse
 | **Dimensión** | `dim_address` | Direcciones normalizadas. |
 | **Dimensión** | `dim_product` | Productos. |
 | **Dimensión** | `dim_calendar` | Dimensión temporal. |
-| **Hecho** | `fact_sales_order` | Ventas totales por pedido. |
-| **Hecho** | `fact_sales_order_item` | Detalle de ítems de pedido. |
-| **Hecho** | `fact_payment` | Pagos asociados a pedidos. |
-| **Hecho** | `fact_shipment` | Envíos y tiempos de entrega. |
-| **Hecho** | `fact_web_session` | Sesiones web y usuarios activos. |
-| **Hecho** | `fact_nps_response` | Respuestas de encuestas NPS. |
+| **Hecho** | `fact_sales_order` | Cada fila representa una orden de venta. |
+| **Hecho** | `fact_sales_order_item` | Cada fila representa un ítem dentro de una orden de venta. |
+| **Hecho** | `fact_payment` | Cada fila representa un pagos asociado a una orden. |
+| **Hecho** | `fact_shipment` | Cada fila representa un envio de una orden. |
+| **Hecho** | `fact_web_session` | Cada fila representa una sesión web. |
+| **Hecho** | `fact_nps_response` | Cada fila representa una respuesta de encuesta NPS. |
 
 ---
 

@@ -22,6 +22,7 @@ from .build_dimension_address import build_dim_address
 from .build_dimension_store import build_dim_store
 from .build_fact_sales_order_item_table import build_fact_sales_order_item
 from .build_fact_shipment_table import build_fact_shipment
+from .build_fact_sales_order_table import build_fact_sales_order
 
 from .build_fact_web_session_table import build_fact_web_session
 from .build_fact_nps_response_table import build_fact_nps_response

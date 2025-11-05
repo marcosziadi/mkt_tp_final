@@ -133,6 +133,26 @@ Tablas Principales del Data Warehouse
 | **Hecho** | `fact_web_session` | Cada fila representa una sesión web. |
 | **Hecho** | `fact_nps_response` | Cada fila representa una respuesta de encuesta NPS. |
 
+### ⭐ Esquemas Estrella del Data Warehouse
+
+#### `fact_sales_order`
+![fact_sales_order star schema](docs/assets/fact_sales_order_star_schema.png)
+
+#### `fact_sales_order_item`
+![fact_sales_order_item star schema](docs/assets/fact_sales_order_item_star_schema.png)
+
+#### `fact_payment`
+![fact_payment star schema](docs/assets/fact_payment_star_schema.png)
+
+#### `fact_shipment`
+![fact_shipment star schema](docs/assets/fact_shipment_star_schema.png)
+
+#### `fact_web_session`
+![fact_web_session star schema](docs/assets/fact_web_session_star_schema.png)
+
+#### `fact_nps_response`
+![fact_nps_response star schema](docs/assets/fact_nps_response_star_schema.png)
+
 ---
 
 ## 🧩 Supuestos y Decisiones de Diseño
@@ -158,4 +178,4 @@ Este proyecto se distribuye bajo la **Licencia MIT**, lo que permite su uso, mod
 
 📧 139mziadi@gmail.com
 
-🔗 [LinkedIn](<[Tu-Link-De-LinkedIn](https://www.linkedin.com/in/marcos-ziadi/)>) | [GitHub](<[Tu-Link-De-GitHub](https://github.com/marcosziadi/)>)
+🔗 [LinkedIn](<https://www.linkedin.com/in/marcos-ziadi/>) | [GitHub](<https://github.com/marcosziadi/>)

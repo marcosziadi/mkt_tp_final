@@ -106,7 +106,9 @@ Este script ejecuta en orden las etapas de:
 
 El tablero integra todas las tablas del Data Warehouse y permite explorar los principales indicadores de negocio mediante filtros de fecha, canal, provincia y producto.
 
-### 📍 Captura del dashboard final:
+### 📍 Link al dashboard final:
+
+[Ver el Dashboard Interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTBhMTc0MzItNzQ1MS00YWZlLWFjZjUtZDQxNDlhNDhhOGFkIiwidCI6IjNlMDUxM2Q2LTY4ZmEtNDE2ZS04ZGUxLTZjNWNkYzMxOWZmYSIsImMiOjR9&pageName=2b7b4ae3a8bb9e73c186)
 
 ---
 
